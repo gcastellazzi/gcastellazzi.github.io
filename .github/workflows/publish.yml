@@ -25,6 +25,9 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Rebuild the publications page from publications.bib
+        run: python3 tools/build_publications.py
+
       - name: Render site
         run: quarto render
 

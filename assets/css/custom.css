@@ -4,3 +4,24 @@
 figure figcaption { font-size: .85rem; opacity: .75; }
 img { border-radius: 6px; }
 table { font-size: .92rem; }
+
+/* Pagina Publications: contatore accanto al titolo di sezione, elenco fitto. */
+.pub-count {
+  font-size: .62em;
+  font-weight: 500;
+  vertical-align: middle;
+  padding: .15em .55em;
+  margin-left: .5em;
+  border-radius: 10px;
+  background: rgba(138, 28, 28, .10);
+  color: inherit;
+  opacity: .75;
+}
+#quarto-document-content ul li { margin-bottom: .55rem; }
+a[href^="https://doi.org"] {
+  font-size: .84em;
+  opacity: .7;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+a[href^="https://doi.org"]:hover { opacity: 1; }

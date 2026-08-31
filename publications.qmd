@@ -1,11 +1,8 @@
 ---
 title: "Publications"
-nocite: |
-  @*
 toc: true
+toc-depth: 2
 ---
-
-## Book
 
 ::: {.callout-important appearance="simple" icon=false}
 ### Principles and Analysis of Historical Masonry Structures {.unnumbered}
@@ -28,25 +25,9 @@ Written for engineers, architects, conservation professionals and students.
 *Ebook* ISBN 978-1-0364-5634-4
 :::
 
-## Journal articles, conference papers and book chapters
-
-Elenco completo anche su
+Anche su
 [Google Scholar](https://scholar.google.com/citations?user=pPopX2QAAAAJ&hl=it) ·
 [ORCID](https://orcid.org/0000-0001-5870-5474) ·
 [Scopus](https://www.scopus.com).
 
-::: {.callout-note appearance="simple" collapse="true"}
-## Come si aggiorna questa pagina
-
-Esporta la lista in BibTeX da Scopus e sovrascrivi `publications.bib`.
-Attenzione a due cose che Scopus produce e che BibTeX non accetta: chiavi di
-citazione con apostrofi o spazi (`D'Altri2019`, `Lo Presti2025`) e chiavi
-duplicate. Lo script `tools/fix_scopus_bib.py` sistema entrambe:
-
-```bash
-python3 tools/fix_scopus_bib.py publications.bib
-```
-:::
-
-::: {#refs}
-:::
+{{< include _publications.md >}}
