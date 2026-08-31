@@ -1,33 +1,102 @@
 ---
 title: "Software"
-subtitle: "Open-source tools from the group"
+subtitle: "Open-source tools from research and teaching"
+toc: true
 ---
 
-<!-- TODO: correggi descrizioni e link; aggiungi/rimuovi progetti. -->
+Codice sviluppato nel corso della ricerca e della didattica. Salvo diversa
+indicazione i repository sono pubblici su
+[github.com/gcastellazzi](https://github.com/gcastellazzi).
 
-## Cloud2FEM
+## From survey data to structural models
 
-A pipeline that converts unstructured point clouds of existing buildings into
-finite element meshes ready for structural analysis.
+### Cloud2FEM {#cloud2fem}
 
-[Repository](https://github.com/gcastellazzi/Cloud2FEMpublic){.btn .btn-outline-primary .btn-sm}
+The procedure that enables finite element modelling starting from a cloud of
+points. Slices the cloud, reconstructs the geometry of the structure and builds
+a voxel-based mesh ready for analysis.
 
-## C2F4DT
+Python ·
+[Repository](https://github.com/gcastellazzi/Cloud2FEM){.btn .btn-outline-primary .btn-sm}
+[Portable version](https://github.com/gcastellazzi/Cloud2FEM-portable){.btn .btn-outline-secondary .btn-sm}
 
-Cloud2FEM for Digital Twins — an environment for organising, processing and
-visualising survey data alongside the models derived from it.
+### C2F4DT — PETRAS {#c2f4dt}
 
-[Repository](https://github.com/gcastellazzi/C2F4DT){.btn .btn-outline-primary .btn-sm}
+The successor to Cloud2FEM: an integrated environment that organises, processes
+and visualises survey data together with the structural models derived from it,
+towards a digital twin of the existing building.
 
-## FinEtools contributions
+::: {.callout-note appearance="simple"}
+Currently a private repository. Release is planned alongside the forthcoming
+publication.
+:::
 
-Finite element formulations for flexible structures (shells and beams) in Julia,
-contributed to the `FinEtools` ecosystem.
+### PETRAS-ontology {#petras-ontology}
 
+Provenance graph viewer and project tooling for the PETRAS ontology: keeps track
+of where every piece of data in a digital-twin project comes from and how it was
+transformed.
+
+TypeScript ·
+[Live viewer](https://gcastellazzi.github.io/PETRAS-ontology/){.btn .btn-primary .btn-sm}
+[Repository](https://github.com/gcastellazzi/PETRAS-ontology){.btn .btn-outline-primary .btn-sm}
+
+## Finite elements and error estimation
+
+### FinEtoolsFlexStructures.jl {#finetools}
+
+Finite element tools in Julia for the analysis of flexible structures: beams and
+shells. Part of the `FinEtools` ecosystem.
+
+Julia · MIT ·
 [Repository](https://github.com/gcastellazzi/FinEtoolsFlexStructures.jl){.btn .btn-outline-primary .btn-sm}
+
+### GCEEFEM {#gceefem}
+
+The Gram-Channel Error Estimator (GCEE): an a-priori error estimator for finite
+element solutions.
+
+[Repository](https://github.com/gcastellazzi/GCEEFEM.jl){.btn .btn-outline-primary .btn-sm}
+
+### SAPT {#sapt}
+
+Simulia Abaqus Python Tools — scripts and utilities for driving Abaqus models
+from Python: pre-processing, parametric studies and extraction of results.
+
+Python ·
+[Repository](https://github.com/gcastellazzi/SAPT){.btn .btn-outline-primary .btn-sm}
+
+## Teaching and utilities
+
+### aLOTofImaginArches {#alotia}
+
+Interactive graphical statics of masonry arches, in the browser. Load a
+photograph of a real arch, trace intrados and extrados, subdivide the ring into
+voussoirs, hang loads on it, and move the line of thrust through its three
+degrees of freedom while the software checks joint by joint whether it stays
+inside the masonry.
+
+Written for the master's courses *Mechanics of Historical Masonry Structures*
+and *Historical Masonry and Wooden Structures* at the University of Bologna.
+Nothing to install: a static web page, plain ES modules, no build step and no
+dependencies.
+
+JavaScript · MIT ·
+[Open the app](https://gcastellazzi.github.io/aLoTiA/app/){.btn .btn-primary .btn-sm}
+[User guide](https://gcastellazzi.github.io/aLoTiA/){.btn .btn-outline-primary .btn-sm}
+[Repository](https://github.com/gcastellazzi/aLoTiA){.btn .btn-outline-primary .btn-sm}
+
+### getGdata {#getgdata}
+
+A simple desktop tool to digitize curves from images or PDFs of Cartesian plots
+— recovering numbers from a published figure.
+
+Python ·
+[Repository](https://github.com/gcastellazzi/getGdata){.btn .btn-outline-primary .btn-sm}
 
 ---
 
 ::: {.callout-note appearance="simple"}
-All code is released under open licences. Issues and pull requests are welcome.
+Issues e pull request sono benvenuti. Per collaborazioni:
+[giovanni.castellazzi@unibo.it](mailto:giovanni.castellazzi@unibo.it).
 :::
