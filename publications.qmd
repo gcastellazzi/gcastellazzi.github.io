@@ -2,10 +2,35 @@
 title: "Publications"
 nocite: |
   @*
-toc: false
+toc: true
 ---
 
-Elenco completo su
+## Book
+
+::: {.callout-important appearance="simple" icon=false}
+### Principles and Analysis of Historical Masonry Structures {.unnumbered}
+#### *The Strength of the Past* {.unnumbered}
+
+Giovanni Castellazzi and Alberto Taliercio · Cambridge Scholars Publishing, 2025 · 498 pages
+
+How masonry structures stand, why they endure and when they fail. The book
+develops the mechanics of arches, vaults, domes and walls — thrust line theory,
+the no-tension model, seismic action and long-term degradation — through
+structural principles, case studies and visual tools, connecting historic
+construction techniques with the analytical approaches used today to assess
+safety and guide conservation.
+
+Written for engineers, architects, conservation professionals and students.
+
+[Publisher's page](https://www.cambridgescholars.com/product/978-1-0364-5633-7/){.btn .btn-primary .btn-sm}
+
+*Hardback* ISBN 978-1-0364-5633-7 · *Paperback* ISBN 978-1-0364-7801-8 ·
+*Ebook* ISBN 978-1-0364-5634-4
+:::
+
+## Journal articles, conference papers and book chapters
+
+Elenco completo anche su
 [Google Scholar](https://scholar.google.com/citations?user=REPLACE_ME) ·
 [ORCID](https://orcid.org/0000-0000-0000-0000) ·
 [Scopus](https://www.scopus.com).
@@ -13,12 +38,15 @@ Elenco completo su
 ::: {.callout-note appearance="simple" collapse="true"}
 ## Come si aggiorna questa pagina
 
-Esporta la tua lista in BibTeX da Scopus, Google Scholar o ORCID e sovrascrivi
-il file `publications.bib`. La pagina si rigenera da sola: *ogni* voce del file
-viene mostrata, nell'ordine in cui compare nel file.
-:::
+Esporta la lista in BibTeX da Scopus e sovrascrivi `publications.bib`.
+Attenzione a due cose che Scopus produce e che BibTeX non accetta: chiavi di
+citazione con apostrofi o spazi (`D'Altri2019`, `Lo Presti2025`) e chiavi
+duplicate. Lo script `tools/fix_scopus_bib.py` sistema entrambe:
 
----
+```bash
+python3 tools/fix_scopus_bib.py publications.bib
+```
+:::
 
 ::: {#refs}
 :::

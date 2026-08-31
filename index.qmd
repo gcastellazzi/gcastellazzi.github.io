@@ -1,7 +1,7 @@
 ---
 title: "Giovanni Castellazzi"
 subtitle: "Computational mechanics · Structural modelling · Digital twins of the built heritage"
-image: assets/img/profile.svg
+image: assets/img/profile.jpg
 image-alt: "Giovanni Castellazzi"
 about:
   template: trestles
@@ -47,6 +47,21 @@ Interested in collaborating, or looking for a thesis topic?
 [Get in touch](mailto:giovanni.castellazzi@unibo.it).
 :::
 
+## The book
+
+::: {.callout-important appearance="simple" icon=false}
+### Principles and Analysis of Historical Masonry Structures {.unnumbered}
+#### *The Strength of the Past* — Cambridge Scholars Publishing, 2025 {.unnumbered}
+
+With Alberto Taliercio. How masonry structures stand, why they endure and when
+they fail: the mechanics of arches, vaults, domes and walls, from thrust line
+theory and the no-tension model to seismic action and long-term degradation.
+498 pages, for engineers, architects, conservation professionals and students.
+
+[Publisher's page](https://www.cambridgescholars.com/product/978-1-0364-5633-7/){.btn .btn-primary .btn-sm}
+[All publications](publications.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+
 ## Highlights
 
 ::: {.grid}
@@ -54,7 +69,7 @@ Interested in collaborating, or looking for a thesis topic?
 ::: {.g-col-12 .g-col-md-4}
 ### Cloud2FEM
 From point cloud to finite element model, automatically.
-[Read more →](software.qmd)
+[Read more →](software.qmd#cloud2fem)
 :::
 
 ::: {.g-col-12 .g-col-md-4}
@@ -64,9 +79,9 @@ Texture-aware models, interface elements, damage and frost.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### Shells & VEM
-Locking-free shell elements and virtual element formulations.
-[Read more →](research.qmd)
+### aLOTofImaginArches
+The line of thrust, interactive, in the browser.
+[Open the app →](https://gcastellazzi.github.io/aLoTiA/app/)
 :::
 
 :::

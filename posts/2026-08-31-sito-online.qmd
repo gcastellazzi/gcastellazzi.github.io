@@ -3,7 +3,7 @@ title: "The site is online"
 description: "First entry: what this website is for."
 date: 2026-08-31
 categories: [misc]
-image: ../assets/img/profile.svg
+image: ../assets/img/profile.jpg
 ---
 
 Questo sito raccoglie ricerca, immagini e software del gruppo.

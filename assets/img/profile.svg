@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="sostituisci con la tua foto (profile.jpg)">
-  <rect width="800" height="600" fill="#e9e6e1"/>
-  <g fill="none" stroke="#8a1c1c" stroke-width="3" opacity=".55">
-    <rect x="90" y="90" width="620" height="420"/>
-    <path d="M90 300h620M400 90v420M90 90l620 420M710 90L90 510"/>
-  </g>
-  <text x="400" y="560" font-family="Helvetica,Arial,sans-serif" font-size="30"
-        fill="#5c5852" text-anchor="middle">sostituisci con la tua foto (profile.jpg)</text>
-</svg>
