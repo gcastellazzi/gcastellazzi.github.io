@@ -1,0 +1,9 @@
+/*-- scss:defaults --*/
+$primary:    #e0704f;
+$link-color: $primary;
+$body-bg:    #16191c;
+$body-color: #d7dbdf;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+h2 { margin-top: 2.2rem; padding-bottom: .25rem; border-bottom: 1px solid rgba(255,255,255,.10); }

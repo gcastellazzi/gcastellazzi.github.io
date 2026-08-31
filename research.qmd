@@ -1,0 +1,50 @@
+---
+title: "Research"
+subtitle: "Themes, methods and ongoing projects"
+---
+
+<!-- TODO: rivedi/riscrivi i testi. Aggiungi immagini in assets/img/ e richiamale con ![](assets/img/nome.jpg) -->
+
+## From survey data to structural models
+
+Point clouds, CT scans and photogrammetric surveys describe *what a structure looks
+like*, not *how it behaves*. Bridging the two requires meshing strategies that tolerate
+noise, occlusions and non-manifold geometry.
+
+- Automatic voxel- and slice-based mesh generation from unstructured 3D data
+- Registration and clustering of large point clouds
+- Ontology-driven organisation of digital-twin data
+- CT-based characterisation of small-scale and biological materials
+
+## Masonry and historical constructions
+
+Masonry is discontinuous, anisotropic and history-dependent. I work on models that keep
+the texture visible where it matters and homogenise it where it does not.
+
+- Texture-aware modelling of walls and vaults
+- Interface and shell-interface formulations for block assemblies
+- Damage, plasticity and frost-induced deterioration
+- Seismic assessment of towers and monumental buildings
+
+## Numerical methods
+
+- Locking-free shell and beam finite elements
+- Virtual element methods (VEM) on general polytopal meshes
+- A-priori and a-posteriori error estimation
+- Hybrid and physics-informed neural network surrogates
+
+## Selected ongoing work
+
+::: {.callout-tip appearance="simple"}
+Questa sezione è pensata per essere aggiornata spesso: una riga per progetto,
+con link al paper o al repository quando disponibile.
+:::
+
+| Project | Focus | Status |
+|---|---|---|
+| Cloud2FEM (improved) | Point cloud → FE pipeline | In preparation |
+| Garisenda tower | Monitoring and structural assessment | Ongoing |
+| VEM for beams and shells | Polytopal formulations | In preparation |
+| Hybrid INN | Neural surrogates for structural response | Ongoing |
+
+: {tbl-colwidths="[35,45,20]"}

@@ -1,0 +1,24 @@
+---
+title: "Publications"
+nocite: |
+  @*
+toc: false
+---
+
+Elenco completo su
+[Google Scholar](https://scholar.google.com/citations?user=REPLACE_ME) ·
+[ORCID](https://orcid.org/0000-0000-0000-0000) ·
+[Scopus](https://www.scopus.com).
+
+::: {.callout-note appearance="simple" collapse="true"}
+## Come si aggiorna questa pagina
+
+Esporta la tua lista in BibTeX da Scopus, Google Scholar o ORCID e sovrascrivi
+il file `publications.bib`. La pagina si rigenera da sola: *ogni* voce del file
+viene mostrata, nell'ordine in cui compare nel file.
+:::
+
+---
+
+::: {#refs}
+:::

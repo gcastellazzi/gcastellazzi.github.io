@@ -1,0 +1,34 @@
+---
+title: "Curriculum Vitae"
+toc: true
+---
+
+<!-- TODO: compila con i dati reali. Puoi anche caricare il PDF in assets/ e linkarlo qui sotto. -->
+
+[Download PDF](assets/cv.pdf){.btn .btn-primary .btn-sm}
+
+## Current position
+
+**University of Bologna** — Department of Civil, Chemical, Environmental and
+Materials Engineering (DICAM)
+*Bologna, Italy*
+
+## Education
+
+| Year | Degree | Institution |
+|---|---|---|
+|  | PhD | |
+|  | MSc | |
+
+## Teaching
+
+- <!-- corso, anno accademico -->
+
+## Service
+
+- <!-- reviewer, comitati, editorial board -->
+
+## Contact
+
+Viale del Risorgimento 2, 40136 Bologna, Italy
+[giovanni.castellazzi@unibo.it](mailto:giovanni.castellazzi@unibo.it)

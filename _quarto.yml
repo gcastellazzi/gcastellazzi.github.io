@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Giovanni Castellazzi"
+  description: "Computational mechanics, structural modelling and digital twins of the built heritage."
+  site-url: "https://gcastellazzi.github.io"
+  favicon: assets/img/favicon.svg
+  open-graph: true
+  twitter-card: true
+
+  navbar:
+    logo: assets/img/favicon.svg
+    title: "Giovanni Castellazzi"
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Gallery"
+        href: gallery.qmd
+      - text: "Software"
+        href: software.qmd
+      - text: "News"
+        href: news.qmd
+      - text: "CV"
+        href: cv.qmd
+      - icon: github
+        href: https://github.com/gcastellazzi
+        aria-label: GitHub
+
+  page-footer:
+    left: "© 2026 Giovanni Castellazzi"
+    center: "Built with [Quarto](https://quarto.org)"
+    right:
+      - icon: envelope
+        href: mailto:giovanni.castellazzi@unibo.it
+      - icon: github
+        href: https://github.com/gcastellazzi
+
+format:
+  html:
+    theme:
+      light: [cosmo, assets/css/theme.scss]
+      dark: [darkly, assets/css/theme-dark.scss]
+    css: assets/css/custom.css
+    toc: true
+    toc-depth: 3
+    lightbox: auto
+    code-copy: true
+    code-overflow: wrap
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 250px
+
+bibliography: publications.bib
+csl: assets/ieee.csl

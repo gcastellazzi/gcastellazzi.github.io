@@ -1,0 +1,16 @@
+---
+title: "The site is online"
+description: "First entry: what this website is for."
+date: 2026-08-31
+categories: [misc]
+image: ../assets/img/profile.svg
+---
+
+Questo sito raccoglie ricerca, immagini e software del gruppo.
+
+Per aggiungere un nuovo post basta creare un file in `posts/` con lo stesso
+front matter di questo e scrivere in Markdown. Formule LaTeX incluse:
+
+$$
+\nabla \cdot \boldsymbol{\sigma} + \mathbf{b} = \rho\,\ddot{\mathbf{u}}
+$$

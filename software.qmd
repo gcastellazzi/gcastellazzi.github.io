@@ -1,0 +1,33 @@
+---
+title: "Software"
+subtitle: "Open-source tools from the group"
+---
+
+<!-- TODO: correggi descrizioni e link; aggiungi/rimuovi progetti. -->
+
+## Cloud2FEM
+
+A pipeline that converts unstructured point clouds of existing buildings into
+finite element meshes ready for structural analysis.
+
+[Repository](https://github.com/gcastellazzi/Cloud2FEMpublic){.btn .btn-outline-primary .btn-sm}
+
+## C2F4DT
+
+Cloud2FEM for Digital Twins — an environment for organising, processing and
+visualising survey data alongside the models derived from it.
+
+[Repository](https://github.com/gcastellazzi/C2F4DT){.btn .btn-outline-primary .btn-sm}
+
+## FinEtools contributions
+
+Finite element formulations for flexible structures (shells and beams) in Julia,
+contributed to the `FinEtools` ecosystem.
+
+[Repository](https://github.com/gcastellazzi/FinEtoolsFlexStructures.jl){.btn .btn-outline-primary .btn-sm}
+
+---
+
+::: {.callout-note appearance="simple"}
+All code is released under open licences. Issues and pull requests are welcome.
+:::

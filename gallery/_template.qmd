@@ -1,0 +1,16 @@
+---
+title: "Titolo dell'album"
+description: "Una riga di descrizione."
+date: 2026-01-01
+categories: [masonry, fem]
+image: ../assets/img/placeholder-01.svg
+draft: true          # togli questa riga quando l'album è pronto
+---
+
+Testo introduttivo.
+
+::: {layout-ncol=2}
+![Didascalia della prima immagine](../assets/img/placeholder-01.svg){group="album"}
+
+![Didascalia della seconda immagine](../assets/img/placeholder-02.svg){group="album"}
+:::

@@ -1,0 +1,21 @@
+---
+title: "Gallery"
+subtitle: "Images from models, surveys and experiments"
+listing:
+  - id: albums
+    contents: gallery/*.qmd
+    type: grid
+    grid-columns: 3
+    image-height: 220px
+    sort: "date desc"
+    fields: [image, title, description, date]
+    categories: true
+toc: false
+---
+
+Ogni voce è un piccolo album. Per crearne uno nuovo: copia
+`gallery/_template.qmd`, rinominalo, metti le immagini in `assets/img/` e
+aggiorna i percorsi.
+
+::: {#albums}
+:::

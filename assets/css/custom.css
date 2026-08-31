@@ -1,0 +1,6 @@
+/* Ritocchi minori: modifica pure liberamente. */
+.quarto-title-block .subtitle { font-size: 1.05rem; opacity: .8; font-weight: 400; }
+.quarto-grid-item .card-title { font-size: 1rem; }
+figure figcaption { font-size: .85rem; opacity: .75; }
+img { border-radius: 6px; }
+table { font-size: .92rem; }

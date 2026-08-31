@@ -1,0 +1,13 @@
+---
+title: "News"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  feed: true
+  fields: [date, title, description, categories]
+---
+
+Brevi aggiornamenti su paper, talk e software.
+Per aggiungere una voce: crea un file `posts/AAAA-MM-GG-titolo.qmd`.

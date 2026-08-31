@@ -1,0 +1,21 @@
+---
+title: "From point cloud to FE model"
+description: "Steps of the Cloud2FEM pipeline on a masonry vault."
+date: 2026-01-15
+categories: [point cloud, fem, masonry]
+image: ../assets/img/placeholder-01.svg
+---
+
+Sostituisci le immagini segnaposto con quelle vere: basta copiarle in
+`assets/img/` e cambiare il percorso qui sotto. Cliccando su un'immagine si apre
+in grande (lightbox già attivo per tutto il sito).
+
+::: {layout-ncol=2}
+![Raw point cloud](../assets/img/placeholder-01.svg){group="c2f"}
+
+![Slicing and segmentation](../assets/img/placeholder-02.svg){group="c2f"}
+
+![Voxel model](../assets/img/placeholder-03.svg){group="c2f"}
+
+![Finite element mesh](../assets/img/placeholder-04.svg){group="c2f"}
+:::

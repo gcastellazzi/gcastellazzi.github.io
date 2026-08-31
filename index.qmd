@@ -1,0 +1,72 @@
+---
+title: "Giovanni Castellazzi"
+subtitle: "Computational mechanics · Structural modelling · Digital twins of the built heritage"
+image: assets/img/profile.svg
+image-alt: "Giovanni Castellazzi"
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 16em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:giovanni.castellazzi@unibo.it
+    - icon: github
+      text: GitHub
+      href: https://github.com/gcastellazzi
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0000-0000-0000
+    - icon: mortarboard
+      text: Scholar
+      href: https://scholar.google.com/citations?user=REPLACE_ME
+toc: false
+---
+
+<!-- TODO: sostituisci il testo qui sotto con la tua bio definitiva. -->
+
+I am a researcher at the **Department of Civil, Chemical, Environmental and Materials
+Engineering (DICAM)**, University of Bologna, Italy.
+
+My work sits at the intersection of **computational structural mechanics** and the
+**digital documentation of existing structures**. I develop numerical methods and
+open-source tools that turn survey data — point clouds, CT scans, photogrammetry —
+into predictive finite element models, with a particular focus on **masonry and
+historical constructions**.
+
+## Research in one paragraph
+
+Existing buildings are geometrically irregular, materially heterogeneous and rarely
+documented. Standard modelling pipelines assume none of that is true. I work on
+closing the gap: automatic mesh generation from unstructured 3D data, constitutive
+models for masonry and quasi-brittle materials, efficient shell and beam formulations,
+and virtual element methods for meshes that no classical FE code would accept.
+
+::: {.callout-note appearance="simple"}
+Interested in collaborating, or looking for a thesis topic?
+[Get in touch](mailto:giovanni.castellazzi@unibo.it).
+:::
+
+## Highlights
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Cloud2FEM
+From point cloud to finite element model, automatically.
+[Read more →](software.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Masonry mechanics
+Texture-aware models, interface elements, damage and frost.
+[Read more →](research.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Shells & VEM
+Locking-free shell elements and virtual element formulations.
+[Read more →](research.qmd)
+:::
+
+:::
