@@ -16,17 +16,19 @@ about:
       href: https://github.com/gcastellazzi
     - icon: person-badge
       text: ORCID
-      href: https://orcid.org/0000-0000-0000-0000
+      href: https://orcid.org/0000-0001-5870-5474
     - icon: mortarboard
       text: Scholar
-      href: https://scholar.google.com/citations?user=REPLACE_ME
+      href: https://scholar.google.com/citations?user=pPopX2QAAAAJ&hl=it
 toc: false
 ---
 
 <!-- TODO: sostituisci il testo qui sotto con la tua bio definitiva. -->
 
-I am a researcher at the **Department of Civil, Chemical, Environmental and Materials
-Engineering (DICAM)**, University of Bologna, Italy.
+I am **Associate Professor** at the Department of Civil, Chemical, Environmental
+and Materials Engineering (DICAM), University of Bologna, and President of
+[AICO](https://www.aico-compositi.it), the Italian Association of Composites for
+Civil Engineering Applications.
 
 My work sits at the intersection of **computational structural mechanics** and the
 **digital documentation of existing structures**. I develop numerical methods and

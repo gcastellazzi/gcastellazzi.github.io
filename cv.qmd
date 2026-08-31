@@ -1,34 +1,121 @@
 ---
 title: "Curriculum Vitae"
+subtitle: "Giovanni Castellazzi — Associate Professor, University of Bologna"
 toc: true
+toc-depth: 2
 ---
 
-<!-- TODO: compila con i dati reali. Puoi anche caricare il PDF in assets/ e linkarlo qui sotto. -->
-
-[Download PDF](assets/cv.pdf){.btn .btn-primary .btn-sm}
+::: {.callout-note appearance="simple"}
+Profili: [ORCID](https://orcid.org/0000-0001-5870-5474) ·
+[Google Scholar](https://scholar.google.com/citations?user=pPopX2QAAAAJ&hl=it) ·
+[Publications](publications.qmd)
+:::
 
 ## Current position
 
-**University of Bologna** — Department of Civil, Chemical, Environmental and
-Materials Engineering (DICAM)
-*Bologna, Italy*
+**Associate Professor** — Department of Civil, Chemical, Environmental and
+Materials Engineering (DICAM), University of Bologna. *Since 2021.*
+
+**President** — AICO, Italian Association of Composites for Civil Engineering
+Applications. *Since 2023.* [aico-compositi.it](https://www.aico-compositi.it)
+
+**Faculty member** — PhD Programme in *Engineering and Information Technology
+for Structural and Environmental Monitoring and Risk Management* (EIT4SEMM),
+University of Bologna. *Since 2022.*
+
+**Registered Engineer** — Engineers Register of the Province of Modena, Italy.
+*Since 2002.*
+
+## National scientific qualification
+
+| Period | Qualification |
+|---|---|
+| 2025–2035 | **Full Professor** — CEAR-06/A, Solid Mechanics |
+| 2017–2023 | Associate Professor — SSD 08/B2, Solid Mechanics |
+
+: {tbl-colwidths="[22,78]"}
 
 ## Education
 
-| Year | Degree | Institution |
-|---|---|---|
-|  | PhD | |
-|  | MSc | |
+| Period | |
+|---|---|
+| 2009–2010 | **Post-doctoral Fellow**, University of California San Diego, Jacobs School of Engineering — *Multi-level schemes for explicit dynamics to track elastic/acoustic waves* |
+| 2008–2009 | **Post-doctoral Fellow**, University of California San Diego, Jacobs School of Engineering — *Assumed-strain elements for incompressible media and plates* |
+| 2004–2007 | **PhD in Structural Mechanics**, University of Bologna |
+| 2001 | **Laurea in Civil Engineering** (5-year degree, major in Structural Design), University of Bologna |
 
-## Teaching
+: {tbl-colwidths="[16,84]"}
 
-- <!-- corso, anno accademico -->
+## Academic appointments
+
+| Period | Position |
+|---|---|
+| 2021–present | Associate Professor, DICAM, University of Bologna |
+| 2018–2021 | Senior Assistant Professor (RTDb, tenure track), DICAM, University of Bologna |
+| 2001–2018 | Laboratory Technician Support Specialist, DICAM (formerly DISTART), University of Bologna |
+
+: {tbl-colwidths="[22,78]"}
 
 ## Service
 
-- <!-- reviewer, comitati, editorial board -->
+### Programme and committee roles
+
+| Period | Role |
+|---|---|
+| 2021–2023 | Committee member, Intake Committee, MSc in [Historic Building Rehabilitation](https://corsi.unibo.it/2cycle/HistoricBuildings) |
+| 2021–2022 | Committee member, PhD Intake Committee, Civil, Chemical, Environmental and Materials Engineering (37th cycle, effective member) |
+| 2020–2021 | Committee member, PhD Intake Committee, Civil, Chemical, Environmental and Materials Engineering (36th cycle, alternate member) |
+| 2019–2023 | Programme Secretary, MSc in [Civil Engineering](https://corsi.unibo.it/2cycle/CivilEngineering) |
+| 2019–2023 | Committee member, [Intake Committee](https://corsi.unibo.it/2cycle/CivilEngineering/how-to-enrol), MSc in Civil Engineering |
+| 2019–2020 | Committee member, University inventory discharge commission, University of Bologna |
+
+: {tbl-colwidths="[22,78]"}
+
+### Learned societies
+
+| Period | Society |
+|---|---|
+| 2023–present | **President**, AICO — Italian Association of Composites for Civil Engineering Applications |
+| 2019–2023 | Vice-President, AICO |
+| 2014–present | Member, AICO — [aico-compositi.it](https://www.aico-compositi.it) |
+| 2019–present | Staff member, RILEM — International Union of Laboratories and Experts in Construction Materials, Systems and Structures — [rilem.net](https://www.rilem.net) |
+| 2018–present | Member, EUROMECH — European Mechanics Society |
+| 2018–present | Member, SISCO — Italian Society of Solid Mechanics |
+| 2011–present | Member, AIMETA — Italian Association of Theoretical and Applied Mechanics — [aimeta.it](https://www.aimeta.it) |
+| 2009–2011 | Member, ISSNAF — Italian Scientists and Scholars in North America Foundation |
+| 2012 | Member, SPIE — International Society for Optics and Photonics |
+
+: {tbl-colwidths="[22,78]"}
+
+## Supervision
+
+### Doctoral theses
+
+**2022–2025 · Advisor** — *Innovative eco-sustainable materials for the energy
+and seismic improvement of civil buildings.* PhD Programme EIT4SEMM.
+Candidate: **Nicolò Lo Presti**.
+
+**2015–2018 · Co-advisor** — *Micro-modelling of masonry structures.* PhD
+Programme in Civil, Chemical, Environmental and Materials Engineering.
+Candidate: **Antonio Maria D'Altri**.
+
+### Research positions
+
+**2020–2021 · Advisor** — Research grant on *Existing Building Information
+Modeling for the management of interventions on existing buildings*, funded
+under the eBIM project (POR-FESR, Emilia-Romagna Region).
+Researcher: **Nicolò Lo Presti**.
+
+**Sept–Dec 2021 · Advisor** — Visiting researcher from Ivane Javakhishvili
+Tbilisi State University, Georgia, on *Effective modeling of complex
+unreinforced masonry buildings*. Researcher: **Dr Nino Tabatadze**.
+
+## Teaching
+
+<!-- TODO: elenca i corsi (nome, laurea, anno accademico). -->
 
 ## Contact
 
-Viale del Risorgimento 2, 40136 Bologna, Italy
+Department of Civil, Chemical, Environmental and Materials Engineering (DICAM)
+University of Bologna · Viale del Risorgimento 2, 40136 Bologna, Italy
 [giovanni.castellazzi@unibo.it](mailto:giovanni.castellazzi@unibo.it)

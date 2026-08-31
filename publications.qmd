@@ -31,8 +31,8 @@ Written for engineers, architects, conservation professionals and students.
 ## Journal articles, conference papers and book chapters
 
 Elenco completo anche su
-[Google Scholar](https://scholar.google.com/citations?user=REPLACE_ME) ·
-[ORCID](https://orcid.org/0000-0000-0000-0000) ·
+[Google Scholar](https://scholar.google.com/citations?user=pPopX2QAAAAJ&hl=it) ·
+[ORCID](https://orcid.org/0000-0001-5870-5474) ·
 [Scopus](https://www.scopus.com).
 
 ::: {.callout-note appearance="simple" collapse="true"}
