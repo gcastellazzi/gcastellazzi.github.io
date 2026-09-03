@@ -1,0 +1,25 @@
+---
+title: "Cultural heritage: Garisenda tower"
+description: "Images from monitoring, modelling and diagnostic work on the Garisenda tower."
+date: 2026-03-01
+categories: [cultural heritage, masonry, digital twin]
+image: ../assets/img/gallery/cultural-heritage/garisenda-tower.jpg
+---
+
+Images extracted from the Garisenda paper draft.
+
+::: {.masonry-gallery}
+![Garisenda tower survey image.](../assets/img/gallery/cultural-heritage/garisenda-tower.jpg){group="garisenda"}
+
+![Observed masonry damage.](../assets/img/gallery/cultural-heritage/garisenda-masonry-damage.jpg){group="garisenda"}
+
+![Masonry texture detail.](../assets/img/gallery/cultural-heritage/garisenda-masonry-texture.jpg){group="garisenda"}
+
+![Monitoring time series used in the diagnostic workflow.](../assets/img/gallery/cultural-heritage/garisenda-monitoring-series.jpg){group="garisenda"}
+
+![Modal-shape representation.](../assets/img/gallery/cultural-heritage/garisenda-modal-shapes.jpg){group="garisenda"}
+
+![Hybrid structural model.](../assets/img/gallery/cultural-heritage/garisenda-hybrid-model.jpg){group="garisenda"}
+
+![Contour results on the tower model.](../assets/img/gallery/cultural-heritage/garisenda-contour-model.jpg){group="garisenda"}
+:::

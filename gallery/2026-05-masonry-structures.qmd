@@ -1,0 +1,20 @@
+---
+title: "Masonry structures"
+description: "Texture, damage evidence and structural models for masonry case studies."
+date: 2026-05-01
+categories: [masonry, cultural heritage, structural modelling]
+image: ../assets/img/gallery/cultural-heritage/garisenda-masonry-texture.jpg
+---
+
+Initial masonry album, seeded with figures from the Garisenda paper draft. This
+collection is intended to grow with additional masonry case studies.
+
+::: {.masonry-gallery}
+![Masonry texture detail.](../assets/img/gallery/cultural-heritage/garisenda-masonry-texture.jpg){group="masonry"}
+
+![Observed masonry damage.](../assets/img/gallery/cultural-heritage/garisenda-masonry-damage.jpg){group="masonry"}
+
+![Hybrid structural model of a masonry tower.](../assets/img/gallery/cultural-heritage/garisenda-hybrid-model.jpg){group="masonry"}
+
+![Contour results on the masonry tower model.](../assets/img/gallery/cultural-heritage/garisenda-contour-model.jpg){group="masonry"}
+:::

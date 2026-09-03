@@ -3,8 +3,6 @@ title: "Research"
 subtitle: "Themes, methods and ongoing projects"
 ---
 
-<!-- TODO: rivedi/riscrivi i testi. Aggiungi immagini in assets/img/ e richiamale con ![](assets/img/nome.jpg) -->
-
 ## From survey data to structural models
 
 Point clouds, CT scans and photogrammetric surveys describe *what a structure looks
@@ -26,12 +24,36 @@ the texture visible where it matters and homogenise it where it does not.
 - Damage, plasticity and frost-induced deterioration
 - Seismic assessment of towers and monumental buildings
 
+[Garisenda gallery](gallery/2026-03-cultural-heritage-garisenda.qmd){.btn .btn-outline-primary .btn-sm}
+
 ## Numerical methods
 
 - Locking-free shell and beam finite elements
 - Virtual element methods (VEM) on general polytopal meshes
 - A-priori and a-posteriori error estimation
 - Hybrid and physics-informed neural network surrogates
+
+[FEM shell gallery](gallery/2026-02-fem-shell.qmd){.btn .btn-outline-primary .btn-sm}
+
+## Data-driven and explainable modelling
+
+- Machine-learning and statistical models for structural prediction
+- Feature-importance and SHAP-based interpretation of monitoring data
+- Data-informed calibration of structural models and digital twins
+
+## Multi-physics degradation
+
+- Coupled thermo-hygro-mechanical processes in porous materials
+- Salt crystallization and long-term degradation of masonry
+- Environmental actions on historical construction materials
+
+## Sustainable and bio-based materials
+
+- Experimental and numerical characterization of eco-sustainable materials
+- Recycled and natural aggregates for energy and structural performance
+- Hygrothermal and mechanical testing of innovative mortars
+
+[Innovative materials gallery](gallery/2026-04-innovative-materials.qmd){.btn .btn-outline-primary .btn-sm}
 
 ## Selected ongoing work
 
@@ -46,5 +68,6 @@ con link al paper o al repository quando disponibile.
 | Garisenda tower | Monitoring and structural assessment | Ongoing |
 | VEM for beams and shells | Polytopal formulations | In preparation |
 | Hybrid INN | Neural surrogates for structural response | Ongoing |
+| Olive-kernel mortars | Bio-based materials for buildings | Under review |
 
 : {tbl-colwidths="[35,45,20]"}

@@ -23,12 +23,12 @@ about:
 toc: false
 ---
 
-<!-- TODO: sostituisci il testo qui sotto con la tua bio definitiva. -->
-
 I am **Associate Professor** at the Department of Civil, Chemical, Environmental
 and Materials Engineering (DICAM), University of Bologna, and President of
 [AICO](https://www.aico-compositi.it), the Italian Association of Composites for
-Civil Engineering Applications.
+Civil Engineering Applications. I was a post-doctoral fellow at the University
+of California San Diego and completed my PhD in Structural Mechanics at the
+University of Bologna.
 
 My work sits at the intersection of **computational structural mechanics** and the
 **digital documentation of existing structures**. I develop numerical methods and
@@ -42,7 +42,8 @@ Existing buildings are geometrically irregular, materially heterogeneous and rar
 documented. Standard modelling pipelines assume none of that is true. I work on
 closing the gap: automatic mesh generation from unstructured 3D data, constitutive
 models for masonry and quasi-brittle materials, efficient shell and beam formulations,
-and virtual element methods for meshes that no classical FE code would accept.
+virtual element methods for meshes that no classical FE code would accept, and
+data-informed digital twins for structural monitoring and interpretation.
 
 ::: {.callout-note appearance="simple"}
 Interested in collaborating, or looking for a thesis topic?
@@ -81,9 +82,9 @@ Texture-aware models, interface elements, damage and frost.
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### aLOTofImaginArches
-The line of thrust, interactive, in the browser.
-[Open the app →](https://gcastellazzi.github.io/aLoTiA/app/)
+### Cultural heritage
+Monitoring, survey data and modelling for historical structures.
+[Open gallery →](gallery/2026-03-cultural-heritage-garisenda.qmd)
 :::
 
 :::

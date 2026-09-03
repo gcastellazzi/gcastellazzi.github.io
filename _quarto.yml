@@ -24,8 +24,12 @@ website:
         href: gallery.qmd
       - text: "Software"
         href: software.qmd
+      - text: "Collaborations"
+        href: collaborations.qmd
       - text: "News"
         href: news.qmd
+      - text: "Roadmap"
+        href: roadmap.qmd
       - text: "CV"
         href: cv.qmd
       - icon: github

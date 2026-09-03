@@ -25,3 +25,28 @@ a[href^="https://doi.org"] {
   border-bottom: 1px dotted currentColor;
 }
 a[href^="https://doi.org"]:hover { opacity: 1; }
+
+.masonry-gallery {
+  columns: 1;
+  column-gap: 1rem;
+}
+
+.masonry-gallery figure {
+  break-inside: avoid;
+  margin: 0 0 1rem;
+}
+
+.masonry-gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+  background: #f7f7f4;
+}
+
+@media (min-width: 760px) {
+  .masonry-gallery { columns: 2; }
+}
+
+@media (min-width: 1100px) {
+  .masonry-gallery { columns: 3; }
+}

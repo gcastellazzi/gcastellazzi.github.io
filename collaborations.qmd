@@ -1,0 +1,59 @@
+---
+title: "Collaborations"
+subtitle: "Research networks and institutional partnerships"
+toc: true
+toc-depth: 2
+---
+
+::: {.callout-note appearance="simple"}
+Source alignment: this page mirrors the collaboration areas listed on the
+[University of Bologna profile](https://www.unibo.it/sitoweb/giovanni.castellazzi/collaborazioni).
+:::
+
+## International research collaborations
+
+| Institution | Country | Topics |
+|---|---|---|
+| Delft University of Technology, Faculty of Civil Engineering and Geosciences | Netherlands | Long-term weathering effects on historic building materials and masonry quay walls; multiphase hygro-thermal modelling. |
+| Institute for Sustainability and Innovation in Structural Engineering (ISISE) | Portugal | Moment-resisting timber connections, digital image correlation and numerical modelling. |
+| ISISE | Portugal | BIM-supported data management for historical constructions, IoT workflows and low-cost LiDAR survey techniques. |
+| Delft University of Technology, Faculty of Civil Engineering and Geosciences | Netherlands | Damage between building components induced by seismic vibrations. |
+| ISISE, University of Minho | Portugal | Experimental and numerical techniques, strengthening methods, masonry products and earthquake engineering. |
+| Delft University of Technology, Faculty of Civil Engineering and Geosciences | Netherlands | Full-scale masonry modelling and damaging block-based approaches for masonry structures. |
+| University of California San Diego | United States | Locking-free displacement finite elements with nodal integration. |
+
+: {tbl-colwidths="[34,18,48]"}
+
+## Collaboration themes
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Heritage structures
+
+Digital-twin workflows, survey-to-model pipelines, masonry diagnostics and
+decision support for conservation.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Computational mechanics
+
+Finite element and virtual element formulations, nonlinear response and robust
+open-source implementation.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Sustainable materials
+
+Bio-based and recycled materials, experimental characterization and numerical
+modelling for building applications.
+:::
+
+:::
+
+## Data to complete
+
+- Confirm current principal investigators and research groups for each partner.
+- Add project dates, funding schemes and formal agreements where available.
+- Add selected joint publications for each collaboration.
+- Add logos only where usage rights are clear.

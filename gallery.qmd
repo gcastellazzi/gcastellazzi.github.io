@@ -13,9 +13,22 @@ listing:
 toc: false
 ---
 
-Ogni voce è un piccolo album. Per crearne uno nuovo: copia
-`gallery/_template.qmd`, rinominalo, metti le immagini in `assets/img/` e
-aggiorna i percorsi.
+The gallery is organized as small research albums. The first pass separates
+FEM shell benchmarks, cultural heritage case studies and innovative materials;
+the masonry album can be expanded as soon as dedicated figures are selected.
+
+## Albums
 
 ::: {#albums}
 :::
+
+## Planned collections
+
+| Collection | Scope | Next data needed |
+|---|---|---|
+| Masonry | Texture-aware models, interfaces, damage and seismic assessment | Select 6-10 figures from masonry papers and case studies |
+| Cultural heritage | Digital twins, monitoring, point clouds and structural assessment | Add final captions and project metadata |
+| FEM | Shell, beam, VEM and nonlinear benchmark results | Add DOI/preprint links and benchmark descriptions |
+| Innovative materials | Bio-based aggregates, experiments and material characterization | Add accepted paper metadata and test protocol links |
+
+: {tbl-colwidths="[22,45,33]"}

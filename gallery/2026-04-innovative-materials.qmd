@@ -1,0 +1,23 @@
+---
+title: "Innovative materials: olive-kernel mortars"
+description: "Experimental images and microstructural evidence for sand-free olive-kernel aggregate mortars."
+date: 2026-04-01
+categories: [materials, bio-based, sustainability]
+image: ../assets/img/gallery/innovative-materials/olive-kernels.jpg
+---
+
+Images from the olive-kernel mortar paper draft.
+
+::: {.masonry-gallery}
+![Olive-kernel aggregate used in the mortar formulations.](../assets/img/gallery/innovative-materials/olive-kernels.jpg){group="olive"}
+
+![Flexural test setup.](../assets/img/gallery/innovative-materials/flexural-test.jpg){group="olive"}
+
+![Compressive test setup.](../assets/img/gallery/innovative-materials/compressive-test.jpg){group="olive"}
+
+![DVS apparatus and sample detail.](../assets/img/gallery/innovative-materials/dvs-combo.jpg){group="olive"}
+
+![SEM image of olive-kernel aggregate mortar.](../assets/img/gallery/innovative-materials/sem-01.jpg){group="olive"}
+
+![XRD diffractogram of fresh and recovered OKA particles.](../assets/img/gallery/innovative-materials/xrd-oka.jpg){group="olive"}
+:::

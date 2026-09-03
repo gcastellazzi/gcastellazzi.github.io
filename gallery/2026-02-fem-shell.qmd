@@ -1,0 +1,23 @@
+---
+title: "FEM shell benchmarks"
+description: "Representative benchmarks for the Q4RNT shell element."
+date: 2026-02-01
+categories: [fem, shell, numerical methods]
+image: ../assets/img/gallery/fem-shell/scordelis-lo-displacement.jpg
+---
+
+Images from the Q4RNT shell element paper draft.
+
+::: {.masonry-gallery}
+![Scordelis-Lo roof vertical displacement field.](../assets/img/gallery/fem-shell/scordelis-lo-displacement.jpg){group="fem-shell"}
+
+![Raasch hook geometry used as shell benchmark.](../assets/img/gallery/fem-shell/raasch-hook-geometry.jpg){group="fem-shell"}
+
+![Raasch hook vertical displacement field.](../assets/img/gallery/fem-shell/raasch-hook-displacement.jpg){group="fem-shell"}
+
+![Pinched cylinder displacement field.](../assets/img/gallery/fem-shell/pinched-cylinder-displacement.jpg){group="fem-shell"}
+
+![Pinched hemisphere displacement field.](../assets/img/gallery/fem-shell/pinched-hemisphere-displacement.jpg){group="fem-shell"}
+
+![Cylindrical container with stiffeners.](../assets/img/gallery/fem-shell/cylindrical-container-geometry.jpg){group="fem-shell"}
+:::
