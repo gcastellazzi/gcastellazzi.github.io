@@ -10,19 +10,75 @@ Source alignment: this page mirrors the collaboration areas listed on the
 [University of Bologna profile](https://www.unibo.it/sitoweb/giovanni.castellazzi/collaborazioni).
 :::
 
-## International research collaborations
+## International partners
 
-| Institution | Country | Topics |
-|---|---|---|
-| Delft University of Technology, Faculty of Civil Engineering and Geosciences | Netherlands | Long-term weathering effects on historic building materials and masonry quay walls; multiphase hygro-thermal modelling. |
-| Institute for Sustainability and Innovation in Structural Engineering (ISISE) | Portugal | Moment-resisting timber connections, digital image correlation and numerical modelling. |
-| ISISE | Portugal | BIM-supported data management for historical constructions, IoT workflows and low-cost LiDAR survey techniques. |
-| Delft University of Technology, Faculty of Civil Engineering and Geosciences | Netherlands | Damage between building components induced by seismic vibrations. |
-| ISISE, University of Minho | Portugal | Experimental and numerical techniques, strengthening methods, masonry products and earthquake engineering. |
-| Delft University of Technology, Faculty of Civil Engineering and Geosciences | Netherlands | Full-scale masonry modelling and damaging block-based approaches for masonry structures. |
-| University of California San Diego | United States | Locking-free displacement finite elements with nodal integration. |
+### Delft University of Technology {#tudelft}
 
-: {tbl-colwidths="[34,18,48]"}
+**Faculty of Civil Engineering and Geosciences · Netherlands**
+With **Jan Rots** and **Rita Esposito**.
+
+A single line of work on the mechanics of masonry, from the modelling strategy
+down to the material that decays. It covers block-based and full-scale
+approaches to unreinforced masonry, the damage that seismic vibrations induce
+between building components, and the long-term side of the same problem:
+weathering, salt crystallisation and multiphase hygro-thermal modelling of
+historic materials and masonry quay walls.
+
+Selected joint work:
+
+| Year | |
+|---|---|
+| 2025 | Salt crystallisation and weathering in masonry retaining walls: a multiphase modelling approach |
+| 2025 | Numerical simulation of long-term effects of weathering due to salt crystallisation on masonry quay walls |
+| 2020 | Modeling strategies for the computational analysis of unreinforced masonry structures |
+| 2019 | A damaging block-based model for the cyclic behaviour of full-scale masonry structures |
+| 2019 | A review of numerical models for masonry structures |
+
+: {tbl-colwidths="[10,90]"}
+
+### ISISE — University of Minho {#isise}
+
+**Institute for Sustainability and Innovation in Structural Engineering · Portugal**
+With **Paulo B. Lourenço**, **Daniel V. Oliveira** and **Miguel Azenha**.
+
+Masonry, composite strengthening and BIM. The work spans experimental and
+numerical techniques for masonry products and earthquake engineering,
+strengthening methods with composite materials, and BIM-supported data
+management for historical constructions — including IoT workflows, low-cost
+LiDAR survey and the transformation of point clouds into models that both the
+structural analysis and the building information model can use.
+
+Selected joint work:
+
+| Year | |
+|---|---|
+| 2025 | Streamlining FE and BIM modeling for historic buildings with point cloud transformation |
+| 2023 | Investigating the seismic response of URM walls with irregular opening layout through different modelling approaches |
+
+: {tbl-colwidths="[10,90]"}
+
+### University of California San Diego {#ucsd}
+
+**Jacobs School of Engineering · United States**
+With **Petr Krysl**.
+
+The longest-running of these collaborations, begun during two post-doctoral
+years at UCSD and still active: shell and plate elements, and locking-free
+displacement formulations with nodal integration. Twelve joint papers to date,
+the most recent in 2026.
+
+Selected joint work:
+
+| Year | |
+|---|---|
+| 2026 | A robust quadrilateral Reissner–Mindlin shell element with six degrees of freedom per node |
+| 2015 | Linear tetrahedral element for problems of plastic deformation |
+| 2014 | Assumed-strain nodally integrated hexahedral element for elastoplastic applications |
+| 2009 | Displacement-based finite elements with nodal integration for Reissner–Mindlin plates |
+
+: {tbl-colwidths="[10,90]"}
+
+The full list is on the [publications page](publications.qmd).
 
 ## Collaboration themes
 
@@ -53,7 +109,5 @@ modelling for building applications.
 
 ## Data to complete
 
-- Confirm current principal investigators and research groups for each partner.
 - Add project dates, funding schemes and formal agreements where available.
-- Add selected joint publications for each collaboration.
 - Add logos only where usage rights are clear.
