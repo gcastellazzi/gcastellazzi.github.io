@@ -30,7 +30,7 @@ University of Bologna. *Since 2022.*
 
 | Period | Qualification |
 |---|---|
-| 2025–2035 | **Full Professor** — CEAR-06/A, Solid Mechanics |
+| 2025–2035 | **Full Professor** — CEAR-06/A, Mechanics of Solids and Structures |
 | 2017–2023 | Associate Professor — SSD 08/B2, Solid Mechanics |
 
 : {tbl-colwidths="[22,78]"}
@@ -112,7 +112,26 @@ unreinforced masonry buildings*. Researcher: **Dr Nino Tabatadze**.
 
 ## Teaching
 
-<!-- TODO: elenca i corsi (nome, laurea, anno accademico). -->
+University of Bologna, academic year 2026/2027.
+
+| Code | Course unit | Degree programme |
+|---|---|---|
+| 72782 | **Mechanics of Historical Masonry Structures** — 6 CFU | MSc in Building Engineering–Architecture · MSc in Civil Engineering |
+| 72772 | **Computational Structural Mechanics M** *(module 2)* | MSc in Civil Engineering |
+| B4954 | **Scienza delle Costruzioni T con Laboratorio** *(module 2)* | BSc in Architecture–Engineering |
+
+: {tbl-colwidths="[10,45,45]"}
+
+Course units and exam sessions are listed on my
+[University of Bologna teaching page](https://www.unibo.it/sitoweb/giovanni.castellazzi/teachings).
+
+::: {.callout-note appearance="simple"}
+*Mechanics of Historical Masonry Structures* is taught with
+[aLOTofImaginArches](https://gcastellazzi.github.io/aLoTiA/app/), an interactive
+tool I wrote for the course: students load a photograph of a real arch, trace
+its geometry and move the line of thrust through its three degrees of freedom,
+checking joint by joint whether it stays inside the masonry.
+:::
 
 ## Contact
 
