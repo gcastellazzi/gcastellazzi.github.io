@@ -66,7 +66,19 @@ from Python: pre-processing, parametric studies and extraction of results.
 Python ·
 [Repository](https://github.com/gcastellazzi/SAPT){.btn .btn-outline-primary .btn-sm}
 
-## Teaching and utilities
+## Educational software
+
+### The Masonry Archive {#masonry-archive}
+
+An open, moderated archive of geolocated masonry images for teaching, public
+consultation and research documentation. The interactive map collects masonry
+textures, structural details and construction periods, with optional aLoTiA
+records. Contributions are reviewed before publication.
+
+TypeScript ·
+[Explore the archive](https://gcastellazzi.github.io/theMasonryArchive/){.btn .btn-primary .btn-sm}
+[Repository](https://github.com/gcastellazzi/theMasonryArchive){.btn .btn-outline-primary .btn-sm}
+[Dataset DOI](https://doi.org/10.5281/zenodo.22698617){.btn .btn-outline-secondary .btn-sm}
 
 ### aLOTofImaginArches {#alotia}
 
@@ -85,6 +97,32 @@ JavaScript · MIT ·
 [Open the app](https://gcastellazzi.github.io/aLoTiA/app/){.btn .btn-primary .btn-sm}
 [User guide](https://gcastellazzi.github.io/aLoTiA/){.btn .btn-outline-primary .btn-sm}
 [Repository](https://github.com/gcastellazzi/aLoTiA){.btn .btn-outline-primary .btn-sm}
+
+### UnBaAct {#unbact}
+
+An interactive laboratory for exploring the equilibrium of granular and
+masonry structures. Build or trace two-dimensional block assemblies, vary
+friction, gravity, supports and loads, then observe contact forces, force chains
+and collapse mechanisms directly in the browser.
+
+JavaScript ·
+[Open the app](https://gcastellazzi.github.io/UnBaAct/){.btn .btn-primary .btn-sm}
+[Repository](https://github.com/gcastellazzi/UnBaAct){.btn .btn-outline-primary .btn-sm}
+
+### rapidMQI {#rapidmqi}
+
+A field-oriented teaching tool for assessing the Masonry Quality Index from
+photographs. It guides the user through the seven parameters of the Borri and
+De Maria method, calculates the index for vertical, in-plane and out-of-plane
+actions, and reports the corresponding masonry class and mechanical-property
+ranges. It also works offline on a phone.
+
+JavaScript · MIT ·
+[Open the app](https://gcastellazzi.github.io/rapidMQI/app/){.btn .btn-primary .btn-sm}
+[User guide](https://gcastellazzi.github.io/rapidMQI/){.btn .btn-outline-primary .btn-sm}
+[Repository](https://github.com/gcastellazzi/rapidMQI){.btn .btn-outline-primary .btn-sm}
+
+## Utilities
 
 ### getGdata {#getgdata}
 
