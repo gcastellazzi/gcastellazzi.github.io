@@ -3,19 +3,17 @@ title: "From point cloud to FE model"
 description: "Steps of the Cloud2FEM pipeline on a masonry vault."
 date: 2026-01-15
 categories: [point cloud, fem, masonry]
-image: ../assets/img/placeholder-01.svg
+image: ../assets/img/gallery/cloud2fem/cloud2FEM00.png
 ---
 
-Sostituisci le immagini segnaposto con quelle vere: basta copiarle in
-`assets/img/` e cambiare il percorso qui sotto. Cliccando su un'immagine si apre
-in grande (lightbox già attivo per tutto il sito).
+Images from the Cloud2FEM workflow, from point-cloud processing to finite-element modelling.
 
-::: {layout-ncol=2}
-![Raw point cloud](../assets/img/placeholder-01.svg){group="c2f"}
+::: {.masonry-gallery}
+![Cloud2FEM workflow, from geometric processing to finite-element models.](../assets/img/gallery/cloud2fem/cloud2FEM00.png){group="cloud2fem"}
 
-![Slicing and segmentation](../assets/img/placeholder-02.svg){group="c2f"}
+![Point-cloud slicing and reconstruction of a masonry structure.](../assets/img/gallery/cloud2fem/cloud2FEM01.png){group="cloud2fem"}
 
-![Voxel model](../assets/img/placeholder-03.svg){group="c2f"}
+![Segmentation of the reconstructed masonry structure into components.](../assets/img/gallery/cloud2fem/cloud2FEM02.png){group="cloud2fem"}
 
-![Finite element mesh](../assets/img/placeholder-04.svg){group="c2f"}
+![Cloud-to-mesh distance map and histogram for geometric validation.](../assets/img/gallery/cloud2fem/cloud2FEM03.png){group="cloud2fem"}
 :::
