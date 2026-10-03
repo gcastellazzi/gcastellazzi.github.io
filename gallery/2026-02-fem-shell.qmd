@@ -8,6 +8,13 @@ image: ../assets/img/gallery/fem-shell/scordelis-lo-displacement.jpg
 
 Images from the Q4RNT shell element paper draft.
 
+Barrel mode 8 animation:
+
+<video controls playsinline preload="metadata" width="100%">
+  <source src="../assets/video/gallery/fem-shell/animation_barrel_mode_8.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
 ::: {.masonry-gallery}
 ![Scordelis-Lo roof vertical displacement field.](../assets/img/gallery/fem-shell/scordelis-lo-displacement.jpg){group="fem-shell"}
 
