@@ -1,0 +1,15 @@
+---
+title: "Structural Mechanics and AI for Diagnosing the Built Environment"
+description: "A talk on computer vision, structural monitoring, digital twins, and physics-informed neural networks for existing-building diagnosis."
+date: 2026-06-11
+categories: [talk, artificial intelligence, structural diagnosis]
+---
+
+On 11 June 2026, I spoke at the CIAS seminar on **Diagnosis and Assessment of
+Existing Buildings: Investigations and Strengthening**, held in Bologna. My talk,
+*Structural Mechanics and AI for Diagnosing the Built Environment*, explored how
+computer vision, structural monitoring, finite-element models, digital twins,
+and physics-informed neural networks can support the diagnosis and assessment
+of existing structures.
+
+[Event details](https://archibo.it/eventi/diagnosi-e-verifica-del-costruito-indagini-e-rinforzi){.btn .btn-primary .btn-sm}
