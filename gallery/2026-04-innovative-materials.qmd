@@ -1,23 +1,26 @@
 ---
-title: "Innovative materials: olive-kernel mortars"
-description: "Experimental images and microstructural evidence for sand-free olive-kernel aggregate mortars."
+title: "Sustainable and innovative construction materials"
+description: "Bio-based olive-kernel aggregate mortars and fabric-reinforced cementitious composites."
 date: 2026-04-01
 categories: [materials, bio-based, sustainability]
 image: ../assets/img/gallery/innovative-materials/olive-kernels.jpg
 ---
 
-Images from the olive-kernel mortar paper draft.
+Experimental and microstructural evidence from bio-based mortars and
+fabric-reinforced cementitious matrix (FRCM) composites.
 
 ::: {.masonry-gallery}
-![Olive-kernel aggregate used in the mortar formulations.](../assets/img/gallery/innovative-materials/olive-kernels.jpg){group="olive"}
+![Olive-kernel aggregate used in the mortar formulations.](../assets/img/gallery/innovative-materials/olive-kernels.jpg){group="materials"}
 
-![Flexural test setup.](../assets/img/gallery/innovative-materials/flexural-test.jpg){group="olive"}
+![Hemp and sisal fabric-reinforced cementitious matrix specimens in tensile tests.](../assets/img/research-lines/sustainable-materials-frcm.png){group="materials"}
 
-![Compressive test setup.](../assets/img/gallery/innovative-materials/compressive-test.jpg){group="olive"}
+![Flexural test setup for the olive-kernel aggregate mortars.](../assets/img/gallery/innovative-materials/flexural-test.jpg){group="materials"}
 
-![DVS apparatus and sample detail.](../assets/img/gallery/innovative-materials/dvs-combo.jpg){group="olive"}
+![Compressive test setup for the olive-kernel aggregate mortars.](../assets/img/gallery/innovative-materials/compressive-test.jpg){group="materials"}
 
-![SEM image of olive-kernel aggregate mortar.](../assets/img/gallery/innovative-materials/sem-01.jpg){group="olive"}
+![Dynamic vapour sorption apparatus and sample detail.](../assets/img/gallery/innovative-materials/dvs-combo.jpg){group="materials"}
 
-![XRD diffractogram of fresh and recovered OKA particles.](../assets/img/gallery/innovative-materials/xrd-oka.jpg){group="olive"}
+![SEM image of olive-kernel aggregate mortar.](../assets/img/gallery/innovative-materials/sem-01.jpg){group="materials"}
+
+![XRD diffractogram of fresh and recovered olive-kernel particles.](../assets/img/gallery/innovative-materials/xrd-oka.jpg){group="materials"}
 :::

@@ -43,6 +43,35 @@ a[href^="https://doi.org"]:hover { opacity: 1; }
   background: #f7f7f4;
 }
 
+.research-line-cover {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.research-line-card {
+  height: 100%;
+  padding: 1rem;
+  border: 1px solid var(--bs-border-color);
+  border-radius: .5rem;
+  background: var(--bs-body-bg);
+}
+
+.research-line-card .research-line-cover {
+  height: 220px;
+  margin-bottom: .85rem;
+  object-fit: cover;
+}
+
+.research-line-card h3 {
+  margin-top: .2rem;
+  font-size: 1.05rem;
+}
+
+.research-line-card p {
+  font-size: .93rem;
+}
+
 @media (min-width: 760px) {
   .masonry-gallery { columns: 2; }
 }

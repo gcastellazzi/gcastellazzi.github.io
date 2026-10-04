@@ -106,8 +106,3 @@ modelling for building applications.
 :::
 
 :::
-
-## Data to complete
-
-- Add project dates, funding schemes and formal agreements where available.
-- Add logos only where usage rights are clear.

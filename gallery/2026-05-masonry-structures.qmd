@@ -6,8 +6,8 @@ categories: [masonry, cultural heritage, structural modelling]
 image: ../assets/img/gallery/cultural-heritage/garisenda-masonry-texture.jpg
 ---
 
-Initial masonry album, seeded with figures from the Garisenda paper draft. This
-collection is intended to grow with additional masonry case studies.
+Selected evidence of masonry texture, damage and structural modelling from the
+Garisenda case study.
 
 ::: {.masonry-gallery}
 ![Masonry texture detail.](../assets/img/gallery/cultural-heritage/garisenda-masonry-texture.jpg){group="masonry"}

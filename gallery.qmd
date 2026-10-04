@@ -13,22 +13,62 @@ listing:
 toc: false
 ---
 
-The gallery is organized as small research albums. The first pass separates
-FEM shell benchmarks, cultural heritage case studies and innovative materials;
-the masonry album can be expanded as soon as dedicated figures are selected.
+Browse the research albums, then use the research lines below to explore how
+survey, numerical methods, material degradation and experiments connect.
 
 ## Albums
 
 ::: {#albums}
 :::
 
-## Planned collections
+## Research lines
 
-| Collection | Scope | Next data needed |
-|---|---|---|
-| Masonry | Texture-aware models, interfaces, damage and seismic assessment | Select 6-10 figures from masonry papers and case studies |
-| Cultural heritage | Digital twins, monitoring, point clouds and structural assessment | Add final captions and project metadata |
-| FEM | Shell, beam, VEM and nonlinear benchmark results | Add DOI/preprint links and benchmark descriptions |
-| Innovative materials | Bio-based aggregates, experiments and material characterization | Add accepted paper metadata and test protocol links |
+::: {.grid .research-lines}
 
-: {tbl-colwidths="[22,45,33]"}
+::: {.g-col-12 .g-col-md-6 .g-col-xl-4 .research-line-card}
+![Point-cloud survey transformed into a finite-element model.](assets/img/research-lines/cultural-heritage-cloud2fem.png){.research-line-cover}
+
+### [Modelling cultural heritage from survey to structure](research.qmd#cultural-heritage-modelling)
+
+From point clouds and BIM to analysis-ready models, damage diagnosis and structural assessment.
+
+[Cloud2FEM](gallery/2026-01-cloud2fem.qmd) · [Garisenda](gallery/2026-03-cultural-heritage-garisenda.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-xl-4 .research-line-card}
+![Adaptive mesh refinement guided by recovery-based error estimation.](assets/img/research-lines/adaptive-procedures-rcp.png){.research-line-cover}
+
+### [Adaptive and reliable finite-element procedures](research.qmd#finite-element-procedures)
+
+RCP, error estimation, adaptive refinement and automated structural assessment.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-xl-4 .research-line-card}
+![Displacement and strain fields from the Q4RS shell benchmark.](assets/img/research-lines/finite-elements-q4rs.png){.research-line-cover}
+
+### [Finite-element formulations for plates, shells and beams](research.qmd#finite-element-formulations)
+
+NIPE, PASE, Q4RS and beam elements designed for reliable structural analysis.
+
+[FEM shell benchmarks](gallery/2026-02-fem-shell.qmd)
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-xl-4 .research-line-card}
+![Coupled saturation, tortuosity, stress and damage fields in a salt-crystallisation model.](assets/img/research-lines/multiphysics-salt-damage.png){.research-line-cover}
+
+### [Multiphysics of salt transport and material degradation](research.qmd#multiphysics)
+
+Coupled moisture, heat, salt transport, crystallisation and mechanical damage.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-xl-4 .research-line-card}
+![Fabric-reinforced cementitious matrix specimens used in tensile testing.](assets/img/research-lines/sustainable-materials-frcm.png){.research-line-cover}
+
+### [Sustainable and innovative construction materials](research.qmd#innovative-materials)
+
+Olive-kernel mortars, FRCM composites and material characterisation for construction and repair.
+
+[Innovative materials album](gallery/2026-04-innovative-materials.qmd)
+:::
+
+:::

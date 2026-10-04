@@ -1,12 +1,12 @@
 ---
 title: "FEM shell benchmarks"
-description: "Representative benchmarks for the Q4RNT shell element."
+description: "Representative benchmarks for the Q4RS Reissner–Mindlin shell element."
 date: 2026-02-01
 categories: [fem, shell, numerical methods]
 image: ../assets/img/gallery/fem-shell/scordelis-lo-displacement.jpg
 ---
 
-Images from the Q4RNT shell element paper draft.
+Benchmarks and mode-shape visualisation for the Q4RS shell element.
 
 Barrel mode 8 animation:
 

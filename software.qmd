@@ -26,11 +26,6 @@ The successor to Cloud2FEM: an integrated environment that organises, processes
 and visualises survey data together with the structural models derived from it,
 towards a digital twin of the existing building.
 
-::: {.callout-note appearance="simple"}
-Currently a private repository. Release is planned alongside the forthcoming
-publication.
-:::
-
 ### PETRAS-ontology {#petras-ontology}
 
 Provenance graph viewer and project tooling for the PETRAS ontology: keeps track

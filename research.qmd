@@ -1,73 +1,121 @@
 ---
 title: "Research"
-subtitle: "Themes, methods and ongoing projects"
+subtitle: "Computational methods for heritage, structures and materials"
 ---
 
-## From survey data to structural models
+My research connects numerical methods in structural mechanics with the study of
+existing buildings and construction materials. The work ranges from survey data
+and automatic model generation to finite-element formulations, coupled
+degradation models and experimental characterisation.
 
-Point clouds, CT scans and photogrammetric surveys describe *what a structure looks
-like*, not *how it behaves*. Bridging the two requires meshing strategies that tolerate
-noise, occlusions and non-manifold geometry.
+## Modelling cultural heritage from survey to structure {#cultural-heritage-modelling}
 
-- Automatic voxel- and slice-based mesh generation from unstructured 3D data
-- Registration and clustering of large point clouds
-- Ontology-driven organisation of digital-twin data
-- CT-based characterisation of small-scale and biological materials
-
-## Masonry and historical constructions
-
-Masonry is discontinuous, anisotropic and history-dependent. I work on models that keep
-the texture visible where it matters and homogenise it where it does not.
-
-- Texture-aware modelling of walls and vaults
-- Interface and shell-interface formulations for block assemblies
-- Damage, plasticity and frost-induced deterioration
-- Seismic assessment of towers and monumental buildings
-
-[Garisenda gallery](gallery/2026-03-cultural-heritage-garisenda.qmd){.btn .btn-outline-primary .btn-sm}
-
-## Numerical methods
-
-- Locking-free shell and beam finite elements
-- Virtual element methods (VEM) on general polytopal meshes
-- A-priori and a-posteriori error estimation
-- Hybrid and physics-informed neural network surrogates
-
-[FEM shell gallery](gallery/2026-02-fem-shell.qmd){.btn .btn-outline-primary .btn-sm}
-
-## Data-driven and explainable modelling
-
-- Machine-learning and statistical models for structural prediction
-- Feature-importance and SHAP-based interpretation of monitoring data
-- Data-informed calibration of structural models and digital twins
-
-## Multi-physics degradation
-
-- Coupled thermo-hygro-mechanical processes in porous materials
-- Salt crystallization and long-term degradation of masonry
-- Environmental actions on historical construction materials
-
-## Sustainable and bio-based materials
-
-- Experimental and numerical characterization of eco-sustainable materials
-- Recycled and natural aggregates for energy and structural performance
-- Hygrothermal and mechanical testing of innovative mortars
-
-[Innovative materials gallery](gallery/2026-04-innovative-materials.qmd){.btn .btn-outline-primary .btn-sm}
-
-## Selected ongoing work
-
-::: {.callout-tip appearance="simple"}
-Questa sezione è pensata per essere aggiornata spesso: una riga per progetto,
-con link al paper o al repository quando disponibile.
+::: {.grid}
+::: {.g-col-12 .g-col-md-5}
+![Cloud2FEM transforms a point-cloud survey into a finite-element mesh.](assets/img/research-lines/cultural-heritage-cloud2fem.png){.research-line-cover}
 :::
 
-| Project | Focus | Status |
-|---|---|---|
-| Cloud2FEM (improved) | Point cloud → FE pipeline | In preparation |
-| Garisenda tower | Monitoring and structural assessment | Ongoing |
-| VEM for beams and shells | Polytopal formulations | In preparation |
-| Hybrid INN | Neural surrogates for structural response | Ongoing |
-| Olive-kernel mortars | Bio-based materials for buildings | Under review |
+::: {.g-col-12 .g-col-md-7}
+Point clouds, photogrammetry and BIM provide different views of an existing
+structure. I develop workflows that turn these records into analysis-ready
+models, then use those models to investigate structural behaviour, damage and
+conservation questions. Applications include towers, walls, vaults, bridges
+and complex historic buildings.
 
-: {tbl-colwidths="[35,45,20]"}
+**Selected work:** [Cloud2FEM: a finite-element mesh generator based on point
+clouds (2022)](https://doi.org/10.1016/j.softx.2022.101099); [numerical
+modelling-based damage diagnostics (2023)](https://doi.org/10.1016/j.culher.2023.02.004);
+[FE and BIM modelling from point-cloud transformation (2025)](https://doi.org/10.1080/15583058.2024.2330942).
+
+[Cloud2FEM album](gallery/2026-01-cloud2fem.qmd){.btn .btn-outline-primary .btn-sm}
+[Garisenda case study](gallery/2026-03-cultural-heritage-garisenda.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+## Adaptive and reliable finite-element procedures {#finite-element-procedures}
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-5}
+![Adaptive mesh refinement guided by recovery-based error estimation.](assets/img/research-lines/adaptive-procedures-rcp.png){.research-line-cover}
+:::
+
+::: {.g-col-12 .g-col-md-7}
+This line concerns the procedures that make finite-element analyses accurate
+and practical: recovery by compatibility in patches (RCP), a-posteriori error
+estimation, adaptive refinement and automated assessment workflows. The aim is
+to direct computation to the regions that govern the response and to make
+complex analyses more repeatable.
+
+**Selected work:** [Adaptivity based on recovery by compatibility in patches
+(2010)](https://doi.org/10.1016/j.finel.2009.12.004); [an automated two-step
+procedure based on adaptive limit and pushover analyses (2021)](https://doi.org/10.1016/j.compstruc.2021.106561);
+[force-displacement descriptions of masonry collapse mechanisms (2020)](https://doi.org/10.1016/j.compstruc.2020.106234).
+:::
+:::
+
+## Finite-element formulations for plates, shells and beams {#finite-element-formulations}
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-5}
+![Displacement and strain fields from the Q4RS shell benchmark.](assets/img/research-lines/finite-elements-q4rs.png){.research-line-cover}
+:::
+
+::: {.g-col-12 .g-col-md-7}
+I develop finite elements that remain accurate and stable under bending,
+transverse shear, material nonlinearity and mesh distortion. This includes the
+nodally integrated plate element (NIPE), patch-averaged assumed-strain elements
+(PASE), the Q4RS Reissner–Mindlin shell, and beam elements with semi-rigid
+connections.
+
+**Selected work:** [The NIPE-based nine-node plate element (2012)](https://doi.org/10.1016/j.finel.2012.04.004);
+[PASE elements for stress analysis (2012)](https://doi.org/10.1002/nme.4264);
+[the Q4RS shell element (2026)](https://doi.org/10.1016/j.finel.2026.104574);
+[shear-deformable beams with semi-rigid connections (2012)](https://doi.org/10.1016/j.jcsr.2012.07.024).
+
+[FEM shell benchmarks](gallery/2026-02-fem-shell.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+## Multiphysics of salt transport and material degradation {#multiphysics}
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-5}
+![Coupled saturation, tortuosity, stress and damage fields in a salt-crystallisation model.](assets/img/research-lines/multiphysics-salt-damage.png){.research-line-cover}
+:::
+
+::: {.g-col-12 .g-col-md-7}
+Salt weathering links moisture and heat transport, ion movement,
+crystallisation and mechanical damage. I study coupled and staggered
+multiphysics models that connect these processes across scales, from porous
+materials to masonry walls and retaining structures, to understand how
+environmental exposure changes material properties and structural response.
+
+**Selected work:** [A coupled multiphase model for hygrothermal analysis and
+salt-crystallisation stress (2013)](https://doi.org/10.1016/j.conbuildmat.2012.12.045);
+[a staggered multiphysics framework for salt-induced damage (2021)](https://doi.org/10.1016/j.conbuildmat.2021.124486);
+[multiphase modelling of salt weathering in masonry retaining walls (2025)](https://doi.org/10.1016/j.jobe.2025.112999).
+:::
+:::
+
+## Sustainable and innovative construction materials {#innovative-materials}
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-5}
+![Fabric-reinforced cementitious matrix specimens used in tensile testing.](assets/img/research-lines/sustainable-materials-frcm.png){.research-line-cover}
+:::
+
+::: {.g-col-12 .g-col-md-7}
+This line combines experimental characterisation with numerical modelling to
+evaluate lower-impact materials for construction, strengthening and compatible
+repair. Recent work studies sand-free mortars using olive-kernel aggregate and
+fabric-reinforced cementitious matrix (FRCM) composites. Collaborative work
+with Luis Mercedes studies the contributions of the fabric and cementitious
+matrix to tensile behaviour.
+
+**Selected work:** [Sand-free olive-kernel aggregate mortars (2026)](https://doi.org/10.1016/j.jobe.2026.115755);
+[matrix and fabric contributions in FRCM composites (2023)](https://doi.org/10.1016/j.conbuildmat.2022.129693);
+[environmental ageing of masonry strengthened with composites (2019)](https://doi.org/10.1016/j.engstruct.2019.109773).
+
+[Innovative materials album](gallery/2026-04-innovative-materials.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
