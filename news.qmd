@@ -9,12 +9,12 @@ listing:
   fields: [date, title, description, categories]
 ---
 
-Brevi aggiornamenti su paper, talk e software.
+Updates on publications, talks, and research software.
 
 ## From LinkedIn
 
-Una selezione di aggiornamenti recenti condivisi su [LinkedIn](https://www.linkedin.com/in/giovanni-castellazzi-6870436a/):
+Selected recent updates shared on [LinkedIn](https://www.linkedin.com/in/giovanni-castellazzi-6870436a/):
 
-- **Q4RS, elemento quadrilatero per shell di Reissner–Mindlin.** Il lavoro con Petr Krysl presenta un elemento a quattro nodi con sei gradi di libertà per nodo e un’implementazione open source in Julia. [Leggi il post](https://www.linkedin.com/posts/giovanni-castellazzi-6870436a_fem-finiteelements-computationalmechanics-activity-7462049754047406080-3iPg).
-- **Corso di dottorato a Łódź.** Cinque giorni di lezioni sulla meccanica computazionale delle murature storiche alla Lodz University of Technology, con il supporto di NAWA. [Leggi il post](https://www.linkedin.com/posts/giovanni-castellazzi-6870436a_computationalmechanics-historicalmasonry-activity-7466782335401648128-Jdf6).
-- **The Strength of the Past.** Una presentazione del libro scritto con Alberto Taliercio, dedicato ai principi meccanici delle costruzioni storiche in muratura. [Leggi il post](https://www.linkedin.com/posts/giovanni-castellazzi-6870436a_thestrengthofthepast-students-youngresearchers-activity-7419064919142260736-FD7R).
+- **Q4RS, a quadrilateral Reissner–Mindlin shell element.** This work with Petr Krysl presents a four-node element with six degrees of freedom per node and an open-source Julia implementation. [Read the post](https://www.linkedin.com/posts/giovanni-castellazzi-6870436a_fem-finiteelements-computationalmechanics-activity-7462049754047406080-3iPg).
+- **PhD course in Łódź.** Five days of lectures on the computational mechanics of historical masonry at Lodz University of Technology, supported by NAWA. [Read the post](https://www.linkedin.com/posts/giovanni-castellazzi-6870436a_computationalmechanics-historicalmasonry-activity-7466782335401648128-Jdf6).
+- **The Strength of the Past.** An introduction to the book co-authored with Alberto Taliercio on the mechanics of historic masonry structures. [Read the post](https://www.linkedin.com/posts/giovanni-castellazzi-6870436a_thestrengthofthepast-students-youngresearchers-activity-7419064919142260736-FD7R).

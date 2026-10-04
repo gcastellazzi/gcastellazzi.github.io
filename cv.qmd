@@ -118,7 +118,7 @@ University of Bologna, academic year 2026/2027.
 |---|---|---|
 | 72782 | **Mechanics of Historical Masonry Structures** — 6 CFU | MSc in Building Engineering–Architecture · MSc in Civil Engineering |
 | 72772 | **Computational Structural Mechanics M** *(module 2)* | MSc in Civil Engineering |
-| B4954 | **Scienza delle Costruzioni T con Laboratorio** *(module 2)* | BSc in Architecture–Engineering |
+| B4954 | **Structural Mechanics T with Laboratory** *(module 2)* | BSc in Architecture–Engineering |
 
 : {tbl-colwidths="[10,45,45]"}
 

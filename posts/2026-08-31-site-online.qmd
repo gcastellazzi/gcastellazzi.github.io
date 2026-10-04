@@ -6,10 +6,10 @@ categories: [misc]
 image: ../assets/img/profile.jpg
 ---
 
-Questo sito raccoglie ricerca, immagini e software del gruppo.
+This website brings together research, images, and software from the group.
 
-Per aggiungere un nuovo post basta creare un file in `posts/` con lo stesso
-front matter di questo e scrivere in Markdown. Formule LaTeX incluse:
+To add a post, create a file in `posts/` with the same front matter and write
+the content in Markdown. LaTeX equations are supported:
 
 $$
 \nabla \cdot \boldsymbol{\sigma} + \mathbf{b} = \rho\,\ddot{\mathbf{u}}

@@ -4,9 +4,8 @@ subtitle: "Open-source tools from research and teaching"
 toc: true
 ---
 
-Codice sviluppato nel corso della ricerca e della didattica. Salvo diversa
-indicazione i repository sono pubblici su
-[github.com/gcastellazzi](https://github.com/gcastellazzi).
+Software developed through research and teaching. Unless otherwise noted, the
+repositories are public on [github.com/gcastellazzi](https://github.com/gcastellazzi).
 
 ## From survey data to structural models
 
@@ -130,6 +129,6 @@ Python ·
 ---
 
 ::: {.callout-note appearance="simple"}
-Issues e pull request sono benvenuti. Per collaborazioni:
+Issues and pull requests are welcome. For collaboration enquiries, contact:
 [giovanni.castellazzi@unibo.it](mailto:giovanni.castellazzi@unibo.it).
 :::
