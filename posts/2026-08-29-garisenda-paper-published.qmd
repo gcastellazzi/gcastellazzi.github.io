@@ -1,0 +1,19 @@
+---
+title: "Garisenda Tower paper published in Structures"
+description: "A new study analyses the medieval leaning tower with a 3D finite element model that accounts for uncertainty in its multi-leaf masonry walls."
+date: 2026-08-29
+categories: [publication, cultural heritage]
+---
+
+Our paper on the Garisenda Tower has been published in *Structures*:
+
+> A. M. D’Altri, G. Castellazzi, S. Quqa, F. Ubertini, and S. de Miranda,
+> “Structural analysis of a medieval leaning masonry tower considering
+> multi-leaf materials uncertainty,” *Structures*, vol. 92, October 2026,
+> article 112890.
+
+The study uses a geometrically accurate 3D finite element model to investigate
+how uncertainty in the properties of the tower’s multi-leaf masonry affects its
+structural response.
+
+[Read the paper](https://doi.org/10.1016/j.istruc.2026.112890){.btn .btn-primary .btn-sm}

@@ -6,7 +6,8 @@ categories: [cultural heritage, masonry, digital twin]
 image: ../assets/img/gallery/cultural-heritage/garisenda-tower.jpg
 ---
 
-Images extracted from the Garisenda paper draft.
+Images from our study of the Garisenda Tower, now published in *Structures*:
+[“Structural analysis of a medieval leaning masonry tower considering multi-leaf materials uncertainty”](https://doi.org/10.1016/j.istruc.2026.112890).
 
 ::: {.masonry-gallery}
 ![Garisenda tower survey image.](../assets/img/gallery/cultural-heritage/garisenda-tower.jpg){group="garisenda"}

@@ -1,7 +1,8 @@
 <!-- Generato da tools/build_publications.py — non modificare a mano. -->
 
-## Journal articles <span class='pub-count'>54</span>
+## Journal articles <span class='pub-count'>55</span>
 
+- **2026** · A. M. D'Altri, **G. Castellazzi**, S. Quqa, F. Ubertini, and S. de Miranda, "Structural analysis of a medieval leaning masonry tower considering multi-leaf materials uncertainty," *Structures*, vol. 92, pp. 112890. [doi:10.1016/j.istruc.2026.112890](https://doi.org/10.1016/j.istruc.2026.112890)
 - **2026** · N. Lo Presti, K. Abahri, M. S. Ghomchi, P. Stabellini, and **G. Castellazzi**, "Sand-free olive kernel aggregate mortars for sustainable building applications: Mechanical and hygrothermal characterization," *Journal of Building Engineering*, vol. 121. [doi:10.1016/j.jobe.2026.115755](https://doi.org/10.1016/j.jobe.2026.115755)
 - **2026** · M. Chenafi, M. Bourezane, T. Assas, and **G. Castellazzi**, "Computational analysis of functionally graded plates using a strain-based improved FSDT finite element method," *Mechanics Research Communications*, vol. 155. [doi:10.1016/j.mechrescom.2026.104730](https://doi.org/10.1016/j.mechrescom.2026.104730)
 - **2026** · M. Chenafi, **G. Castellazzi**, T. Assas, and A. M. Al-Nadhari, "An advanced strain-based finite element model for laminated plates based on a novel hyperbolic shear deformation theory," *Archive of Applied Mechanics*, vol. 96, no. 7. [doi:10.1007/s00419-026-03142-0](https://doi.org/10.1007/s00419-026-03142-0)
