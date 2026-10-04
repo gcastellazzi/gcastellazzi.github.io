@@ -111,8 +111,10 @@ Semantic data and ontologies for connected, traceable structural models.
 <p>Cloud2FEM — point cloud to structural model</p>
 </article>
 <article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="2 of 4">
-<img src="assets/img/gallery/cloud2fem/san-felice-fortress-cloud2fem.gif" alt="Cloud2FEM model of San Felice Fortress">
-<p>San Felice Fortress — Cloud2FEM model</p>
+<video muted loop playsinline preload="none" aria-label="Cloud2FEM animation of San Felice Fortress">
+<source src="assets/video/gallery/cloud2fem/san-felice-fortress-cloud2fem.mp4" type="video/mp4">
+</video>
+<p>San Felice Fortress — Cloud2FEM animation</p>
 </article>
 <article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="3 of 4">
 <video muted loop playsinline preload="none" aria-label="Animated barrel mode 8 shell simulation">

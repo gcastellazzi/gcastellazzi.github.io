@@ -17,9 +17,15 @@ survey data.
   <source src="../assets/video/gallery/cloud2fem/cloud2fem_demo.mp4" type="video/mp4">
 </video>
 
-::: {.masonry-gallery}
-![Cloud2FEM model of San Felice Fortress.](../assets/img/gallery/cloud2fem/san-felice-fortress-cloud2fem.gif){group="cloud2fem"}
+### San Felice Fortress animation
 
+This Cloud2FEM animation shows the model of the San Felice Fortress.
+
+<video class="img-fluid rounded" controls preload="metadata" playsinline aria-label="Cloud2FEM animation of San Felice Fortress">
+  <source src="../assets/video/gallery/cloud2fem/san-felice-fortress-cloud2fem.mp4" type="video/mp4">
+</video>
+
+::: {.masonry-gallery}
 ![Cloud2FEM workflow, from geometric processing to finite-element models.](../assets/img/gallery/cloud2fem/cloud2FEM00.png){group="cloud2fem"}
 
 ![Point-cloud slicing and reconstruction of a masonry structure.](../assets/img/gallery/cloud2fem/cloud2FEM01.png){group="cloud2fem"}
