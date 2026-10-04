@@ -102,34 +102,34 @@ Semantic data and ontologies for connected, traceable structural models.
 :::
 
 <div id="profile-gallery" class="profile-gallery" role="region" aria-label="Research image and animation gallery" aria-roledescription="carousel">
-  <div class="profile-gallery-viewport">
-    <div class="profile-gallery-track">
-      <article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="1 of 4">
-        <video muted loop playsinline preload="none" aria-label="Cloud2FEM point-cloud modelling demonstration">
-          <source src="assets/video/gallery/cloud2fem/cloud2fem_demo.mp4" type="video/mp4">
-        </video>
-        <p>Cloud2FEM — point cloud to structural model</p>
-      </article>
-      <article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="2 of 4">
-        <img src="assets/img/gallery/cloud2fem/san-felice-fortress-cloud2fem.gif" alt="Cloud2FEM model of San Felice Fortress">
-        <p>San Felice Fortress — Cloud2FEM model</p>
-      </article>
-      <article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="3 of 4">
-        <video muted loop playsinline preload="none" aria-label="Animated barrel mode 8 shell simulation">
-          <source src="assets/video/gallery/fem-shell/animation_barrel_mode_8.mp4" type="video/mp4">
-        </video>
-        <p>Barrel mode 8 — shell simulation</p>
-      </article>
-      <article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="4 of 4">
-        <img src="assets/img/research-lines/cultural-heritage-cloud2fem.png" alt="Finite-element mesh generated from a point-cloud survey">
-        <p>From survey data to a finite-element model</p>
-      </article>
-    </div>
-  </div>
-  <div class="profile-gallery-controls">
-    <button type="button" data-gallery-previous aria-label="Previous slide">‹</button>
-    <span data-gallery-status aria-live="polite">1 / 4</span>
-    <button type="button" data-gallery-next aria-label="Next slide">›</button>
-    <button type="button" data-gallery-toggle aria-pressed="false">Pause</button>
-  </div>
+<div class="profile-gallery-viewport">
+<div class="profile-gallery-track">
+<article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="1 of 4">
+<video muted loop playsinline preload="none" aria-label="Cloud2FEM point-cloud modelling demonstration">
+<source src="assets/video/gallery/cloud2fem/cloud2fem_demo.mp4" type="video/mp4">
+</video>
+<p>Cloud2FEM — point cloud to structural model</p>
+</article>
+<article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="2 of 4">
+<img src="assets/img/gallery/cloud2fem/san-felice-fortress-cloud2fem.gif" alt="Cloud2FEM model of San Felice Fortress">
+<p>San Felice Fortress — Cloud2FEM model</p>
+</article>
+<article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="3 of 4">
+<video muted loop playsinline preload="none" aria-label="Animated barrel mode 8 shell simulation">
+<source src="assets/video/gallery/fem-shell/animation_barrel_mode_8.mp4" type="video/mp4">
+</video>
+<p>Barrel mode 8 — shell simulation</p>
+</article>
+<article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="4 of 4">
+<img src="assets/img/research-lines/cultural-heritage-cloud2fem.png" alt="Finite-element mesh generated from a point-cloud survey">
+<p>From survey data to a finite-element model</p>
+</article>
+</div>
+</div>
+<div class="profile-gallery-controls">
+<button type="button" data-gallery-previous aria-label="Previous slide">‹</button>
+<span data-gallery-status aria-live="polite">1 / 4</span>
+<button type="button" data-gallery-next aria-label="Next slide">›</button>
+<button type="button" data-gallery-toggle aria-pressed="false">Pause</button>
+</div>
 </div>
