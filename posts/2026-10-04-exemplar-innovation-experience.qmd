@@ -1,0 +1,13 @@
+---
+title: "Invited speaker at Exemplar Innovation Experience 2026"
+description: "Talk on the analysis and modelling of historic structures with Abaqus, Pollenzo, 9 October 2026."
+date: 2026-10-04
+categories: [talk, cultural heritage]
+---
+
+I have been invited to speak at the **Exemplar Innovation Experience 2026**, held
+in Pollenzo on 8–9 October. My talk, *“The strength of the past: analysis and
+modelling of historic structures with Abaqus,”* is scheduled for Friday, 9
+October, 11:30–11:50.
+
+[Event programme and registration](https://exemplar.com/en/exemplar-innovation-experience-2026-registration/){.btn .btn-primary .btn-sm}

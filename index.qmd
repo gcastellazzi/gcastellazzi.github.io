@@ -20,6 +20,9 @@ about:
     - icon: mortarboard
       text: Scholar
       href: https://scholar.google.com/citations?user=pPopX2QAAAAJ&hl=it
+    - icon: journal-text
+      text: Scopus
+      href: https://www.scopus.com/authid/detail.uri?authorId=34970897800
 toc: false
 ---
 
@@ -63,6 +66,36 @@ theory and the no-tension model to seismic action and long-term degradation.
 
 [Publisher's page](https://www.cambridgescholars.com/product/978-1-0364-5633-7/){.btn .btn-primary .btn-sm}
 [All publications](publications.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+
+## Research in motion
+
+Selected simulations and visual results. The animation is muted and loops automatically.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+<video class="img-fluid rounded" autoplay loop muted playsinline controls aria-label="Animated barrel mode 8 shell simulation">
+  <source src="assets/video/gallery/fem-shell/animation_barrel_mode_8.mp4" type="video/mp4">
+</video>
+*Barrel mode 8 — shell simulation.*
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Cloud2FEM: finite element mesh generated from a point cloud.](assets/img/research-lines/cultural-heritage-cloud2fem.png){.img-fluid .rounded}
+*From survey data to a finite element model.*
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Vertical displacement field for the Scordelis–Lo roof shell benchmark.](assets/img/gallery/fem-shell/scordelis-lo-displacement.jpg){.img-fluid .rounded}
+*Scordelis–Lo roof benchmark.*
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Displacement field for the pinched cylinder shell benchmark.](assets/img/gallery/fem-shell/pinched-cylinder-displacement.jpg){.img-fluid .rounded}
+*Pinched cylinder benchmark.*
+:::
+
 :::
 
 ## Highlights
