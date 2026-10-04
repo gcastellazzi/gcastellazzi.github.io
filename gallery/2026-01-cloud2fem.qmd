@@ -8,7 +8,18 @@ image: ../assets/img/gallery/cloud2fem/cloud2FEM00.png
 
 Images from the Cloud2FEM workflow, from point-cloud processing to finite-element modelling.
 
+## Cloud2FEM demonstration
+
+This video shows the Cloud2FEM workflow for generating a structural model from
+survey data.
+
+<video class="img-fluid rounded" controls preload="metadata" playsinline poster="../assets/img/gallery/cloud2fem/cloud2FEM00.png" aria-label="Cloud2FEM demonstration video">
+  <source src="../assets/video/gallery/cloud2fem/cloud2fem_demo.mp4" type="video/mp4">
+</video>
+
 ::: {.masonry-gallery}
+![Cloud2FEM model of San Felice Fortress.](../assets/img/gallery/cloud2fem/san-felice-fortress-cloud2fem.gif){group="cloud2fem"}
+
 ![Cloud2FEM workflow, from geometric processing to finite-element models.](../assets/img/gallery/cloud2fem/cloud2FEM00.png){group="cloud2fem"}
 
 ![Point-cloud slicing and reconstruction of a masonry structure.](../assets/img/gallery/cloud2fem/cloud2FEM01.png){group="cloud2fem"}

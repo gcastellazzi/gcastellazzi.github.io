@@ -23,6 +23,9 @@ about:
     - icon: journal-text
       text: Scopus
       href: https://www.scopus.com/authid/detail.uri?authorId=34970897800
+format:
+  html:
+    include-after-body: _includes/home-gallery-script.html
 toc: false
 ---
 
@@ -68,56 +71,65 @@ theory and the no-tension model to seismic action and long-term degradation.
 [All publications](publications.qmd){.btn .btn-outline-primary .btn-sm}
 :::
 
-## Research in motion
-
-Selected simulations and visual results. The animation is muted and loops automatically.
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
-<video class="img-fluid rounded" autoplay loop muted playsinline controls aria-label="Animated barrel mode 8 shell simulation">
-  <source src="assets/video/gallery/fem-shell/animation_barrel_mode_8.mp4" type="video/mp4">
-</video>
-*Barrel mode 8 — shell simulation.*
-:::
-
-::: {.g-col-12 .g-col-md-6}
-![Cloud2FEM: finite element mesh generated from a point cloud.](assets/img/research-lines/cultural-heritage-cloud2fem.png){.img-fluid .rounded}
-*From survey data to a finite element model.*
-:::
-
-::: {.g-col-12 .g-col-md-6}
-![Vertical displacement field for the Scordelis–Lo roof shell benchmark.](assets/img/gallery/fem-shell/scordelis-lo-displacement.jpg){.img-fluid .rounded}
-*Scordelis–Lo roof benchmark.*
-:::
-
-::: {.g-col-12 .g-col-md-6}
-![Displacement field for the pinched cylinder shell benchmark.](assets/img/gallery/fem-shell/pinched-cylinder-displacement.jpg){.img-fluid .rounded}
-*Pinched cylinder benchmark.*
-:::
-
-:::
-
 ## Highlights
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-3}
 ### Cloud2FEM
 From point cloud to finite element model, automatically.
 [Read more →](software.qmd#cloud2fem)
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-3}
 ### Masonry mechanics
 Texture-aware models, interface elements, damage and frost.
 [Read more →](research.qmd)
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-3}
 ### Cultural heritage
 Monitoring, survey data and modelling for historical structures.
 [Open gallery →](gallery/2026-03-cultural-heritage-garisenda.qmd)
 :::
 
+::: {.g-col-12 .g-col-md-3}
+### Structural digital twins
+Semantic data and ontologies for connected, traceable structural models.
+[Read more →](research.qmd#digital-twinning-and-structural-ontologies)
 :::
+
+:::
+
+<div id="profile-gallery" class="profile-gallery" role="region" aria-label="Research image and animation gallery" aria-roledescription="carousel">
+  <div class="profile-gallery-viewport">
+    <div class="profile-gallery-track">
+      <article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="1 of 4">
+        <video muted loop playsinline preload="none" aria-label="Cloud2FEM point-cloud modelling demonstration">
+          <source src="assets/video/gallery/cloud2fem/cloud2fem_demo.mp4" type="video/mp4">
+        </video>
+        <p>Cloud2FEM — point cloud to structural model</p>
+      </article>
+      <article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="2 of 4">
+        <img src="assets/img/gallery/cloud2fem/san-felice-fortress-cloud2fem.gif" alt="Cloud2FEM model of San Felice Fortress">
+        <p>San Felice Fortress — Cloud2FEM model</p>
+      </article>
+      <article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="3 of 4">
+        <video muted loop playsinline preload="none" aria-label="Animated barrel mode 8 shell simulation">
+          <source src="assets/video/gallery/fem-shell/animation_barrel_mode_8.mp4" type="video/mp4">
+        </video>
+        <p>Barrel mode 8 — shell simulation</p>
+      </article>
+      <article class="profile-gallery-slide" role="group" aria-roledescription="slide" aria-label="4 of 4">
+        <img src="assets/img/research-lines/cultural-heritage-cloud2fem.png" alt="Finite-element mesh generated from a point-cloud survey">
+        <p>From survey data to a finite-element model</p>
+      </article>
+    </div>
+  </div>
+  <div class="profile-gallery-controls">
+    <button type="button" data-gallery-previous aria-label="Previous slide">‹</button>
+    <span data-gallery-status aria-live="polite">1 / 4</span>
+    <button type="button" data-gallery-next aria-label="Next slide">›</button>
+    <button type="button" data-gallery-toggle aria-pressed="false">Pause</button>
+  </div>
+</div>

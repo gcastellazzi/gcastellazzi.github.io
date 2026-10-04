@@ -32,6 +32,23 @@ modelling-based damage diagnostics (2023)](https://doi.org/10.1016/j.culher.2023
 :::
 :::
 
+## Digital twinning and structural ontologies {#digital-twinning-and-structural-ontologies}
+
+Structural digital twins bring together finite-element models, monitoring
+measurements, survey data and asset records. Ontologies and semantic data models
+can make the meaning and provenance of these different sources explicit, so that
+data remain connected and traceable as a structure is surveyed, modelled,
+analysed and monitored. This line develops methods and software for organising
+that information and linking it to structural models, with a focus on digital
+twins of existing and historic buildings.
+
+**Selected work:** [Integrating BIM and cloud-based solutions for cultural
+heritage management (2023)](https://doi.org/10.3390/heritage6120384);
+[FE and BIM modelling from point-cloud transformation (2025)](https://doi.org/10.1080/15583058.2024.2330942).
+
+[C2F4DT — PETRAS](software.qmd#c2f4dt){.btn .btn-outline-primary .btn-sm}
+[PETRAS ontology tools](software.qmd#petras-ontology){.btn .btn-outline-primary .btn-sm}
+
 ## Adaptive and reliable finite-element procedures {#finite-element-procedures}
 
 ::: {.grid}
