@@ -28,6 +28,9 @@ jobs:
       - name: Rebuild the publications page from publications.bib
         run: python3 tools/build_publications.py
 
+      - name: Rebuild the metrics page from publications.bib
+        run: python3 tools/build_metrics.py
+
       - name: Render site
         run: quarto render
 

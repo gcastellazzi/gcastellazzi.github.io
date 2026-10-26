@@ -20,6 +20,8 @@ website:
         href: research.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Metrics"
+        href: metrics.qmd
       - text: "Gallery"
         href: gallery.qmd
       - text: "Software"

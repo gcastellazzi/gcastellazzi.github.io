@@ -1,0 +1,28 @@
+---
+title: "Metrics"
+subtitle: "Bibliometric indicators, computed from the bibliography itself"
+toc: true
+toc-depth: 2
+---
+
+{{< include _metrics.md >}}
+
+## Method, and its limits
+
+Every entry of a Scopus BibTeX export carries its citation count. These figures
+are computed from that file — no external service, no API key — and reproduce
+exactly what the
+[Scopus author profile](https://www.scopus.com/authid/detail.uri?authorId=34970897800)
+reports: 96 documents, 2 869 citations, h-index 25.
+
+Two indicators on that profile **cannot** be derived this way, and are therefore
+absent here rather than approximated:
+
+- **how many distinct documents cite this work** — that needs the citing
+  records, not the cited ones;
+- **citations received per year** — the export states how many citations a work
+  has today, never when they arrived.
+
+Self-citations are included, as they are in the Scopus figures above. Indicators
+of this kind describe a body of work only coarsely, and say nothing about the
+worth of any single piece of it.
