@@ -20,7 +20,9 @@ SELF = "castellazzi"
 
 # Ordine e titoli delle sezioni; ogni valore di `type` finisce in un gruppo.
 GROUPS = [
-    ("Journal articles", {"article"}),
+    # Scopus distingue `Article` da `Review`, ma una rassegna su rivista resta
+    # un articolo su rivista: tenerla a parte creerebbe una sezione da una voce.
+    ("Journal articles", {"article", "review"}),
     ("Conference papers", {"conference paper"}),
     ("Book chapters", {"book chapter"}),
     ("Editorials and letters", {"editorial", "letter"}),
