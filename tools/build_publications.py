@@ -34,7 +34,9 @@ def parse(text: str) -> list[dict]:
     entries = []
     for body in re.findall(r"@\w+\{[^,]+,(.*?)\n\}", text, re.S):
         fields = {}
-        for name, value in re.findall(r"(\w+)\s*=\s*\{(.*?)\}\s*,?\s*\n", body, re.S):
+        # Il ritorno a capo finale va reso opzionale: l'ultimo campo di una voce
+        # (in un export Scopus e' `note`) non ne ha uno, e verrebbe perso.
+        for name, value in re.findall(r"(\w+)\s*=\s*\{(.*?)\}\s*,?\s*(?:\n|$)", body, re.S):
             fields[name.lower()] = " ".join(value.split())
         if fields.get("title"):
             entries.append(fields)
