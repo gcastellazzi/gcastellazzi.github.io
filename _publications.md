@@ -1,12 +1,13 @@
 <!-- Generato da tools/build_publications.py — non modificare a mano. -->
 
-## Journal articles <span class='pub-count'>55</span>
+## Journal articles <span class='pub-count'>56</span>
 
-- **2026** · A. M. D'Altri, **G. Castellazzi**, S. Quqa, F. Ubertini, and S. de Miranda, "Structural analysis of a medieval leaning masonry tower considering multi-leaf materials uncertainty," *Structures*, vol. 92, pp. 112890. [doi:10.1016/j.istruc.2026.112890](https://doi.org/10.1016/j.istruc.2026.112890)
+- **2026** · A. M. D’Altri, **G. Castellazzi**, S. Quqa, F. Ubertini, and S. de Miranda, "Structural analysis of a medieval leaning masonry tower considering multi-leaf materials uncertainty," *Structures*, vol. 92. [doi:10.1016/j.istruc.2026.112890](https://doi.org/10.1016/j.istruc.2026.112890)
 - **2026** · N. Lo Presti, K. Abahri, M. S. Ghomchi, P. Stabellini, and **G. Castellazzi**, "Sand-free olive kernel aggregate mortars for sustainable building applications: Mechanical and hygrothermal characterization," *Journal of Building Engineering*, vol. 121. [doi:10.1016/j.jobe.2026.115755](https://doi.org/10.1016/j.jobe.2026.115755)
 - **2026** · M. Chenafi, M. Bourezane, T. Assas, and **G. Castellazzi**, "Computational analysis of functionally graded plates using a strain-based improved FSDT finite element method," *Mechanics Research Communications*, vol. 155. [doi:10.1016/j.mechrescom.2026.104730](https://doi.org/10.1016/j.mechrescom.2026.104730)
 - **2026** · M. Chenafi, **G. Castellazzi**, T. Assas, and A. M. Al-Nadhari, "An advanced strain-based finite element model for laminated plates based on a novel hyperbolic shear deformation theory," *Archive of Applied Mechanics*, vol. 96, no. 7. [doi:10.1007/s00419-026-03142-0](https://doi.org/10.1007/s00419-026-03142-0)
 - **2026** · **G. Castellazzi** and P. Krysl, "A robust quadrilateral Reissner–Mindlin shell element with six degrees of freedom per node," *Finite Elements in Analysis and Design*, vol. 259. [doi:10.1016/j.finel.2026.104574](https://doi.org/10.1016/j.finel.2026.104574)
+- **2026** · B. Wang, W. Zhao, Z. Zhao, **G. Castellazzi**, J. Yu, T. Zhou, and C. Liu, "A generalized Gauss–Helmert framework for point cloud fitting and registration using raw measurements," *Measurement Science and Technology*, vol. 37, no. 40. [doi:10.1088/1361-6501/aea23b](https://doi.org/10.1088/1361-6501/aea23b)
 - **2025** · N. Lo Presti, **G. Castellazzi**, A. M. D’Altri, G. Bertani, S. de Miranda, M. Azenha, D. S. Roggio, G. Bitelli, F. Ferretti, N. Rende, and C. Mazzotti, "Streamlining FE and BIM Modeling for Historic Buildings with Point Cloud Transformation," *International Journal of Architectural Heritage*, vol. 19, no. 7, pp. 1086–1099. [doi:10.1080/15583058.2024.2330942](https://doi.org/10.1080/15583058.2024.2330942)
 - **2025** · S. Sharma, R. Esposito, A. M. D'Altri, and **G. Castellazzi**, "Salt crystallisation and weathering in masonry retaining walls: A multiphase modelling approach," *Journal of Building Engineering*, vol. 111. [doi:10.1016/j.jobe.2025.112999](https://doi.org/10.1016/j.jobe.2025.112999)
 - **2025** · N. Lo Presti, A. M. D’Altri, L. Patruno, **G. Castellazzi**, H. Derluyn, and S. de Miranda, "Multiscale simulation of salt crystallization-induced damage in porous materials," *Materials and Structures/Materiaux et Constructions*, vol. 58, no. 6. [doi:10.1617/s11527-025-02709-7](https://doi.org/10.1617/s11527-025-02709-7)
@@ -105,3 +106,7 @@
 - **2015** · A. Di Tommaso, C. Gentilini, and **G. Castellazzi**, "Preface," *Key Engineering Materials*, vol. 624.
 - **2015** · A. Di Tommaso, C. Gentilini, and **G. Castellazzi**, "Mechanics of masonry structures strengthened with composite materials," *Key Engineering Materials*, vol. 624.
 - **2013** · **G. Castellazzi**, C. Gentilini, P. Krysl, and I. Elishakoff, "Static analysis of functionally graded plates using a nodal integrated finite element approach," *Composite Structures*, vol. 103, pp. 197–200. [doi:10.1016/j.compstruct.2013.04.013](https://doi.org/10.1016/j.compstruct.2013.04.013)
+
+## Other publications <span class='pub-count'>1</span>
+
+- **2026** · **G. Castellazzi**, "A Gram-matrix framework for geometry-induced interpolation errors in isoparametric finite elements," *Finite Elements in Analysis and Design*, vol. 262. [doi:10.1016/j.finel.2026.104664](https://doi.org/10.1016/j.finel.2026.104664)
