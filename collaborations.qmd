@@ -80,6 +80,35 @@ Selected joint work:
 
 The full list is on the [publications page](publications.qmd).
 
+### Natural and bio-based materials {#materials}
+
+**École Normale Supérieure Paris-Saclay · Université de Pau et des Pays de
+l'Adour · EDILTECO Group**
+With **Kamilia Abahri** (ENS Paris-Saclay, Gif-sur-Yvette), **Hannelore
+Derluyn** (Université de Pau et des Pays de l'Adour, Pau) and **EDILTECO
+Group**.
+
+Building materials made from what would otherwise be waste, and the physics of
+the porous media they produce. The work runs from the experimental
+characterisation of lightweight and sand-free mortars with recycled olive
+kernel aggregate — mechanical and hygrothermal behaviour, CT-based
+microstructure — to the multiscale modelling of salt crystallisation damage in
+porous materials. The partnership with EDILTECO brings the industrial side:
+formulation, production constraints and the step from laboratory specimen to
+building product.
+
+Selected joint work:
+
+| Year | |
+|---|---|
+| 2026 | Sand-free olive kernel aggregate mortars for sustainable building applications: mechanical and hygrothermal characterisation |
+| 2025 | Towards sustainable construction: experimental and numerical study on bio-based cementitious composites |
+| 2025 | Experimental investigation of lightweight mortars based on recycled olive kernel |
+| 2025 | Multiscale simulation of salt crystallization-induced damage in porous materials |
+| 2017 | A multi-scale approach for the mechanical effects of salt crystallisation |
+
+: {tbl-colwidths="[10,90]"}
+
 ## Collaboration themes
 
 ::: {.grid}
