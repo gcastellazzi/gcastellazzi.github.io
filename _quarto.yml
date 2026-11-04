@@ -31,7 +31,11 @@ website:
       - text: "News"
         href: news.qmd
       - text: "CV"
-        href: cv.qmd
+        menu:
+          - text: "English"
+            href: cv.qmd
+          - text: "Italiano"
+            href: cv-it.qmd
       - icon: github
         href: https://github.com/gcastellazzi
         aria-label: GitHub

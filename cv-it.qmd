@@ -1,0 +1,164 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Giovanni Castellazzi — Professore associato, Università di Bologna"
+lang: it
+date: today
+date-format: "D MMMM YYYY"
+toc: true
+toc-depth: 2
+format:
+  html: default
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    geometry: margin=2.2cm
+    fontsize: 10pt
+    colorlinks: true
+    keep-tex: true
+    lang: it
+---
+
+::: {.content-visible when-format="html"}
+::: {.download-bar}
+[Scarica il PDF](cv-it.pdf){.btn .btn-primary .btn-sm download="Castellazzi-CV-it.pdf"}
+[Sorgente LaTeX](cv-it.tex){.btn .btn-outline-primary .btn-sm download="Castellazzi-CV-it.tex"}
+[English](cv.qmd){.btn .btn-outline-secondary .btn-sm}
+:::
+
+Il PDF viene rigenerato a ogni pubblicazione del sito: riporta quindi la data
+dell'ultima build, non quella di una copia congelata.
+:::
+
+::: {.callout-note appearance="simple"}
+Profili: [ORCID](https://orcid.org/0000-0001-5870-5474) ·
+[Google Scholar](https://scholar.google.com/citations?user=pPopX2QAAAAJ&hl=it) ·
+[Pubblicazioni](publications.qmd)
+:::
+
+## Posizione attuale
+
+**Professore associato** — Dipartimento di Ingegneria Civile, Chimica,
+Ambientale e dei Materiali (DICAM), Università di Bologna. *Dal 2021.*
+
+**Presidente** — AICO, Associazione Italiana Compositi per le applicazioni
+nell'ingegneria civile. *Dal 2023.* [aico-compositi.it](https://www.aico-compositi.it)
+
+**Membro del collegio docenti** — Dottorato in *Ingegneria e tecnologia
+dell'informazione per il monitoraggio strutturale e ambientale e la gestione
+dei rischi* (EIT4SEMM), Università di Bologna. *Dal 2022.*
+
+**Ingegnere iscritto all'Albo** — Ordine degli Ingegneri della Provincia di
+Modena. *Dal 2002.*
+
+## Abilitazione scientifica nazionale
+
+| Periodo | Abilitazione |
+|---|---|
+| 2025–2035 | **Professore ordinario** — CEAR-06/A, Meccanica dei solidi e delle strutture |
+| 2017–2023 | Professore associato — SSD 08/B2, Scienza delle costruzioni |
+
+: {tbl-colwidths="[22,78]"}
+
+## Formazione
+
+| Periodo | |
+|---|---|
+| 2009–2010 | **Assegnista post-dottorato**, University of California San Diego, Jacobs School of Engineering — *Multi-level schemes for explicit dynamics to track elastic/acoustic waves* |
+| 2008–2009 | **Assegnista post-dottorato**, University of California San Diego, Jacobs School of Engineering — *Assumed-strain elements for incompressible media and plates* |
+| 2004–2007 | **Dottorato in Meccanica delle strutture**, Università di Bologna |
+| 2001 | **Laurea in Ingegneria Civile** (quinquennale, indirizzo Strutture), Università di Bologna |
+
+: {tbl-colwidths="[16,84]"}
+
+## Posizioni accademiche
+
+| Periodo | Posizione |
+|---|---|
+| 2021–oggi | Professore associato, DICAM, Università di Bologna |
+| 2018–2021 | Ricercatore a tempo determinato di tipo B (RTDb), DICAM, Università di Bologna |
+| 2001–2018 | Tecnico laureato di supporto al laboratorio, DICAM (già DISTART), Università di Bologna |
+
+: {tbl-colwidths="[22,78]"}
+
+## Incarichi istituzionali
+
+### Corsi di studio e commissioni
+
+| Periodo | Incarico |
+|---|---|
+| 2021–2023 | Membro della commissione di accesso, LM in [Historic Building Rehabilitation](https://corsi.unibo.it/2cycle/HistoricBuildings) |
+| 2021–2022 | Membro della commissione di ammissione al dottorato in Ingegneria Civile, Chimica, Ambientale e dei Materiali (37° ciclo, membro effettivo) |
+| 2020–2021 | Membro della commissione di ammissione al dottorato in Ingegneria Civile, Chimica, Ambientale e dei Materiali (36° ciclo, membro supplente) |
+| 2019–2023 | Segretario del corso di laurea magistrale in [Ingegneria Civile](https://corsi.unibo.it/2cycle/CivilEngineering) |
+| 2019–2023 | Membro della [commissione di accesso](https://corsi.unibo.it/2cycle/CivilEngineering/how-to-enrol), LM in Ingegneria Civile |
+| 2019–2020 | Membro della commissione di Ateneo per gli scarichi inventariali, Università di Bologna |
+
+: {tbl-colwidths="[22,78]"}
+
+### Società scientifiche
+
+| Periodo | Società |
+|---|---|
+| 2023–oggi | **Presidente**, AICO — Associazione Italiana Compositi per le applicazioni nell'ingegneria civile |
+| 2019–2023 | Vicepresidente, AICO |
+| 2014–oggi | Socio, AICO — [aico-compositi.it](https://www.aico-compositi.it) |
+| 2019–oggi | Staff member, RILEM — International Union of Laboratories and Experts in Construction Materials, Systems and Structures — [rilem.net](https://www.rilem.net) |
+| 2018–oggi | Socio, EUROMECH — European Mechanics Society |
+| 2018–oggi | Socio, SISCO — Associazione Italiana di Scienza delle Costruzioni |
+| 2011–oggi | Socio, AIMETA — Associazione Italiana di Meccanica Teorica e Applicata — [aimeta.it](https://www.aimeta.it) |
+| 2009–2011 | Socio, ISSNAF — Italian Scientists and Scholars in North America Foundation |
+| 2012 | Socio, SPIE — International Society for Optics and Photonics |
+
+: {tbl-colwidths="[22,78]"}
+
+## Supervisione
+
+### Tesi di dottorato
+
+**2022–2025 · Relatore** — *Innovative eco-sustainable materials for the energy
+and seismic improvement of civil buildings.* Dottorato EIT4SEMM.
+Candidato: **Nicolò Lo Presti**.
+
+**2015–2018 · Correlatore** — *Micro-modelling of masonry structures.*
+Dottorato in Ingegneria Civile, Chimica, Ambientale e dei Materiali.
+Candidato: **Antonio Maria D'Altri**.
+
+### Assegni di ricerca
+
+**2020–2021 · Responsabile** — Assegno di ricerca su *Existing Building
+Information Modeling per la gestione dell'intervento sul costruito esistente*,
+finanziato nell'ambito del progetto eBIM (POR-FESR, Regione Emilia-Romagna).
+Assegnista: **Nicolò Lo Presti**.
+
+**Set–dic 2021 · Responsabile** — Visiting researcher dalla Ivane Javakhishvili
+Tbilisi State University, Georgia, su *Effective modeling of complex
+unreinforced masonry buildings*. Ricercatrice: **Dr. Nino Tabatadze**.
+
+## Didattica
+
+Università di Bologna, anno accademico 2026/2027.
+
+| Codice | Insegnamento | Corso di studio |
+|---|---|---|
+| 72782 | **Mechanics of Historical Masonry Structures** — 6 CFU | LM in Ingegneria Edile–Architettura · LM in Ingegneria Civile |
+| 72772 | **Computational Structural Mechanics M** *(modulo 2)* | LM in Ingegneria Civile |
+| B4954 | **Scienza delle Costruzioni T con Laboratorio** *(modulo 2)* | L in Ingegneria–Architettura |
+
+: {tbl-colwidths="[10,45,45]"}
+
+Insegnamenti e appelli d'esame sono elencati sulla mia
+[pagina didattica dell'Università di Bologna](https://www.unibo.it/sitoweb/giovanni.castellazzi/teachings).
+
+::: {.callout-note appearance="simple"}
+*Mechanics of Historical Masonry Structures* si avvale di
+[aLOTofImaginArches](https://gcastellazzi.github.io/aLoTiA/app/), uno strumento
+interattivo scritto per il corso: lo studente carica la fotografia di un arco
+reale, ne traccia la geometria e muove la linea delle pressioni nei suoi tre
+gradi di libertà, verificando giunto per giunto se resta dentro la muratura.
+:::
+
+## Contatti
+
+Dipartimento di Ingegneria Civile, Chimica, Ambientale e dei Materiali (DICAM)
+Università di Bologna · Viale del Risorgimento 2, 40136 Bologna
+[giovanni.castellazzi@unibo.it](mailto:giovanni.castellazzi@unibo.it)

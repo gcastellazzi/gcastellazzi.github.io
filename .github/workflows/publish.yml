@@ -24,6 +24,10 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          # Serve a comporre i PDF del CV: senza una distribuzione TeX la
+          # render del sito fallirebbe sulle pagine a doppio formato.
+          tinytex: true
 
       - name: Rebuild the publications page from publications.bib
         run: python3 tools/build_publications.py

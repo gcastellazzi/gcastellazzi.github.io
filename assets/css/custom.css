@@ -154,3 +154,11 @@ a[href^="https://doi.org"]:hover { opacity: 1; }
 .metric-card p { margin: 0; }
 .metric-value { display: block; font-size: 1.9rem; font-weight: 600; line-height: 1.1; color: var(--bs-primary); }
 .metric-label { display: block; font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; opacity: .7; }
+
+/* Barra di download in cima alle pagine del CV. */
+.download-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-bottom: .75rem;
+}
