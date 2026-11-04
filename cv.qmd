@@ -19,18 +19,22 @@ format:
 ::: {.content-visible when-format="html"}
 ::: {.download-bar}
 [Download PDF](cv.pdf){.btn .btn-primary .btn-sm download="Castellazzi-CV.pdf"}
+[Full CV · 22 pp.](assets/cv/Castellazzi-CV-full-en.pdf){.btn .btn-outline-primary .btn-sm download="Castellazzi-CV-full.pdf"}
 [LaTeX source](cv.tex){.btn .btn-outline-primary .btn-sm download="Castellazzi-CV.tex"}
 [Italiano](cv-it.qmd){.btn .btn-outline-secondary .btn-sm}
 :::
 
-The PDF is regenerated every time the site is published, so it carries the date
-of the latest build rather than a frozen snapshot.
+This page is the short CV: it is regenerated every time the site is published,
+so its PDF carries the date of the latest build rather than a frozen snapshot.
+The **full CV** is a separate document, typeset with moderncv, adding the
+complete publication list, funded projects, editorial duties and teaching
+record.
 :::
 
 ::: {.callout-note appearance="simple"}
 Profiles: [ORCID](https://orcid.org/0000-0001-5870-5474) ·
 [Google Scholar](https://scholar.google.com/citations?user=pPopX2QAAAAJ&hl=it) ·
-[Publications](publications.qmd)
+[Publications](https://gcastellazzi.github.io/publications.html)
 :::
 
 ## Current position

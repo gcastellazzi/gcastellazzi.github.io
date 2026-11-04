@@ -21,18 +21,22 @@ format:
 ::: {.content-visible when-format="html"}
 ::: {.download-bar}
 [Scarica il PDF](cv-it.pdf){.btn .btn-primary .btn-sm download="Castellazzi-CV-it.pdf"}
+[CV esteso · 21 pp.](assets/cv/Castellazzi-CV-full-it.pdf){.btn .btn-outline-primary .btn-sm download="Castellazzi-CV-esteso.pdf"}
 [Sorgente LaTeX](cv-it.tex){.btn .btn-outline-primary .btn-sm download="Castellazzi-CV-it.tex"}
 [English](cv.qmd){.btn .btn-outline-secondary .btn-sm}
 :::
 
-Il PDF viene rigenerato a ogni pubblicazione del sito: riporta quindi la data
-dell'ultima build, non quella di una copia congelata.
+Questa pagina è il CV breve: viene rigenerata a ogni pubblicazione del sito,
+quindi il PDF riporta la data dell'ultima build e non quella di una copia
+congelata. Il **CV esteso** è un documento a parte, composto con moderncv,
+che aggiunge l'elenco completo delle pubblicazioni, i progetti finanziati,
+le attività editoriali e il percorso didattico.
 :::
 
 ::: {.callout-note appearance="simple"}
 Profili: [ORCID](https://orcid.org/0000-0001-5870-5474) ·
 [Google Scholar](https://scholar.google.com/citations?user=pPopX2QAAAAJ&hl=it) ·
-[Pubblicazioni](publications.qmd)
+[Pubblicazioni](https://gcastellazzi.github.io/publications.html)
 :::
 
 ## Posizione attuale
