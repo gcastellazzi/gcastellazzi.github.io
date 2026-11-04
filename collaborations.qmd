@@ -80,22 +80,14 @@ Selected joint work:
 
 The full list is on the [publications page](publications.qmd).
 
-### Natural and bio-based materials {#materials}
+### École Normale Supérieure Paris-Saclay {#ens}
 
-**École Normale Supérieure Paris-Saclay · Université de Pau et des Pays de
-l'Adour · EDILTECO Group**
-With **Kamilia Abahri** (ENS Paris-Saclay, Gif-sur-Yvette), **Hannelore
-Derluyn** (Université de Pau et des Pays de l'Adour, Pau) and **EDILTECO
-Group**.
+**Gif-sur-Yvette, France** · With **Kamilia Abahri**.
 
-Building materials made from what would otherwise be waste, and the physics of
-the porous media they produce. The work runs from the experimental
+Building materials made from what would otherwise be waste. Experimental
 characterisation of lightweight and sand-free mortars with recycled olive
-kernel aggregate — mechanical and hygrothermal behaviour, CT-based
-microstructure — to the multiscale modelling of salt crystallisation damage in
-porous materials. The partnership with EDILTECO brings the industrial side:
-formulation, production constraints and the step from laboratory specimen to
-building product.
+kernel aggregate: mechanical and hygrothermal behaviour, and the CT-based
+reading of their microstructure.
 
 Selected joint work:
 
@@ -104,10 +96,34 @@ Selected joint work:
 | 2026 | Sand-free olive kernel aggregate mortars for sustainable building applications: mechanical and hygrothermal characterisation |
 | 2025 | Towards sustainable construction: experimental and numerical study on bio-based cementitious composites |
 | 2025 | Experimental investigation of lightweight mortars based on recycled olive kernel |
+
+: {tbl-colwidths="[10,90]"}
+
+### Université de Pau et des Pays de l'Adour {#pau}
+
+**Pau, France** · With **Hannelore Derluyn**.
+
+The physics of porous media and how they decay: multiscale modelling of the
+damage that salt crystallisation induces inside the pore network, and its
+mechanical consequences at the scale of the wall.
+
+Selected joint work:
+
+| Year | |
+|---|---|
 | 2025 | Multiscale simulation of salt crystallization-induced damage in porous materials |
 | 2017 | A multi-scale approach for the mechanical effects of salt crystallisation |
 
 : {tbl-colwidths="[10,90]"}
+
+### EDILTECO Group {#edilteco}
+
+**Italy** · With **Paolo Stabellini**.
+
+The industrial side of the same line of work: formulation of mortars with
+bio-based and recycled aggregate, production constraints, and the step from
+laboratory specimen to building product. The three papers listed under
+[ENS Paris-Saclay](#ens) are joint work with EDILTECO as well.
 
 ## Collaboration themes
 
